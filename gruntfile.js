@@ -1,18 +1,37 @@
 module.exports = function(grunt) {
 
-
-
     grunt.initConfig({
         webfont: {
-            icons: {
-                src: 'icons/16/*.svg',
-                dest: 'font',
+            production: {
+                src: 'src/icons/*.svg',
+                dest: 'dest/production/iconfont',
                 options: {
-                    font: 'Tangram-16',
-                    type: 'ttf',
+                    template: 'src/templates/icons.scss',
+                    baseClass: '.tmicon-{{glyph}}',
+                    css_selector: '.tmicon-{{glyph}}',
+                    stylesheets: ['css','scss'],
+                    hashes: true,
+                    font: 'tmicons',
+                    styles: 'font,icon',
+                    types: 'eot,woff,ttf,svg',
+                    order: 'eot,woff,ttf,svg',
                     fontHeight: 960,
                     descent: 0,
-                    ligatures: true
+                    codepointsFile: 'src/tmicons-codepoints.json'
+                }
+            },
+            sketchtoolkit: {
+                src: 'src/icons/*.svg',
+                dest: 'dest/sketch-toolkit/iconfont',
+                options: {
+                    font: 'tmicons',
+                    types: 'ttf',
+                    fontHeight: 960,
+                    descent: 0,
+                    ligatures: true,
+                    stylesheets: [],
+                    htmlDemo: false,
+                    codepointsFile: 'src/tmicons-codepoints.json'
                 }
             }
         }
