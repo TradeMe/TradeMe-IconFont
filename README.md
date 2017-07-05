@@ -1,4 +1,16 @@
-# TradeMe.Tangram.IconFont
+# TradeMe.TradeMe.IconFont
+Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
+
+## Installation
+
+### XQuartz
+Install [XQuartz](http://xquartz.macosforge.org/)
+
+Just this first time, start XQuartz from `Applications/Utilities/XQuartz.app`, go to the X11 menu, Preferences, Input, and **turn off** the `Enable keyboard shortcuts` under X11 or `Enable key equivalents` under X11 preference item. FontForge will start XQuartz automatically for you next time.
+
+### FontForge
+Install [FontForge](http://fontforge.github.io/en-US/downloads/mac/)
+
 
 ## Font Custom
 [![Gem Version](https://badge.fury.io/rb/fontcustom.png)](http://badge.fury.io/rb/fontcustom)
