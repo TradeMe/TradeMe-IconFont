@@ -1,7 +1,25 @@
 # TradeMe.TradeMe.IconFont
 Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
 
+### 1.1.0
+* New offline workflow not using Fontastic
+* Updated with full 2015 icon set
+
+### v11
+* Archived font made with Fontastic
+
+Full release notes with icon commissions and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
+
 ## Installation
+
+```sh
+brew update
+brew install ttfautohint fontforge --with-python
+npm install
+```
+`fontforge` is only required for Sketch toolkit font ligatures
+
+Can use `Node` for production
 
 ### XQuartz
 Install [XQuartz](http://xquartz.macosforge.org/)
@@ -11,11 +29,17 @@ Just this first time, start XQuartz from `Applications/Utilities/XQuartz.app`, g
 ### FontForge
 Install [FontForge](http://fontforge.github.io/en-US/downloads/mac/)
 
+## Quick Start
+
+```sh
+grunt                           # Compiles icons into `iconfont/`
+grunt webfont:production        # Compiles icons and styles for production
+grunt webfont:sketchtoolkit     # Compiles only ligature iconfont for Sketch App
+```
+### Codepoints map
+Existing icons are mapped and maintained to unicode characters in `src/codepoints`
 
 ## Font Custom
-[![Gem Version](https://badge.fury.io/rb/fontcustom.png)](http://badge.fury.io/rb/fontcustom)
-[![Build Status](https://api.travis-ci.org/FontCustom/fontcustom.png)](https://travis-ci.org/FontCustom/fontcustom)
-[![Code Quality](https://codeclimate.com/github/FontCustom/fontcustom.png)](https://codeclimate.com/github/FontCustom/fontcustom) [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=32953)](https://www.bountysource.com/trackers/32953-endtwist-fontcustom?utm_source=32953&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 
 **Icon fonts from the command line.**
 
