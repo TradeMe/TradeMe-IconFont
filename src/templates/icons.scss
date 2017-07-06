@@ -14,6 +14,19 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+[data-icon]:before {
+  font-family: "<%= fontFamilyName %>" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 <% } %>
 <% if (baseStyles) { %>[class^="<%= baseClass %>-"]:before,
 [class*=" <%= baseClass %>-"]:before<% if (addLigatures) { %>,.ligature-icons<% } %> {

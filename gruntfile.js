@@ -2,13 +2,16 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
         webfont: {
+            // iconfont build and styles for production
             production: {
                 src: 'src/icons/*.svg',
                 dest: 'dest/production/iconfont',
                 options: {
                     template: 'src/templates/icons.scss',
-                    baseClass: '.tmicon-{{glyph}}',
-                    css_selector: '.tmicon-{{glyph}}',
+                    templateOptions: {
+                      baseClass: 'tmicon',
+                      classPrefix: 'tmicon-'
+                    },
                     stylesheets: ['css','scss'],
                     hashes: true,
                     font: 'tmicons',
@@ -17,9 +20,11 @@ module.exports = function(grunt) {
                     order: 'eot,woff,ttf,svg',
                     fontHeight: 960,
                     descent: 0,
-                    codepointsFile: 'src/tmicons-codepoints.json'
+                    codepointsFile: 'src/codepoints',
+                    destHtml: 'dest'
                 }
             },
+            // iconfont for Sketch App toolkit
             sketchtoolkit: {
                 src: 'src/icons/*.svg',
                 dest: 'dest/sketch-toolkit/iconfont',
@@ -31,7 +36,7 @@ module.exports = function(grunt) {
                     ligatures: true,
                     stylesheets: [],
                     htmlDemo: false,
-                    codepointsFile: 'src/tmicons-codepoints.json'
+                    codepointsFile: 'src/codepoints'
                 }
             }
         }
