@@ -5,13 +5,17 @@ module.exports = function(grunt) {
             // iconfont build and styles for production
             production: {
                 src: 'src/icons/*.svg',
-                dest: 'dest/production/iconfont',
+                dest: 'iconfont/production',
                 options: {
                     template: 'src/templates/icons.scss',
                     templateOptions: {
                       baseClass: 'tmicon',
                       classPrefix: 'tmicon-'
                     },
+                    customOutputs: [{
+                      template: 'src/templates/codepoints',
+                      dest: 'iconfont'
+                    }],
                     stylesheets: ['css','scss'],
                     hashes: true,
                     font: 'tmicons',
@@ -21,13 +25,14 @@ module.exports = function(grunt) {
                     fontHeight: 960,
                     descent: 0,
                     codepointsFile: 'src/codepoints',
-                    destHtml: 'dest'
+                    htmlDemo: true,
+                    destHtml: 'iconfont'
                 }
             },
             // iconfont for Sketch App toolkit
             sketchtoolkit: {
                 src: 'src/icons/*.svg',
-                dest: 'dest/sketch-toolkit/iconfont',
+                dest: 'iconfont/sketch-toolkit',
                 options: {
                     font: 'tmicons',
                     types: 'ttf',
