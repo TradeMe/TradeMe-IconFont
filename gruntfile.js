@@ -7,6 +7,7 @@ module.exports = function(grunt) {
                 src: 'src/icons/*.svg',
                 dest: 'iconfont/production',
                 options: {
+                    engine: 'node',
                     template: 'src/templates/icons.scss',
                     templateOptions: {
                       baseClass: 'tmicon',
