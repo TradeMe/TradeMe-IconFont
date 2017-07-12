@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmark-lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookmark-lock" fill="#000000">
+            <g id="Bookmark-Lock" transform="translate(4.000000, 0.000000)">
+                <polyline id="Fill-2" points="14 20.111 8 15.826 2 20.111 2 5.055 8 5.055 8 4.055 2.393 4.055 3.423 2.992 12.577 2.992 13.607 4.055 12 4.055 12 5.055 14 5.055 14 6.992 16 6.992 16 3.649 13.423 0.992 2.577 0.992 0 3.649 0 23.998 8 18.283 16 23.998 16 16.992 14 16.992 14 20.111"></polyline>
+                <polygon id="Fill-3" points="9 4.055 11 4.055 11 5.055 9 5.055"></polygon>
+                <path d="M17,10.992 L17,9.5 C17,9.5 16.969,8 15,8 C13,8 13,9.5 13,9.5 L13,10.992 L12,10.992 L12,16 L18,16 L18,10.992 L17,10.992 L17,10.992 Z M14,9.5 C14,9.48 14.011,9 15,9 C15.808,9 15.975,9.33 16,9.537 L16,10.992 L14,10.992 L14,9.5 L14,9.5 Z" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

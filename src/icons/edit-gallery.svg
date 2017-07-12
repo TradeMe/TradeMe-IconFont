@@ -1,1 +1,18 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m760 80h-560c-66.3 0-120 53.7-120 120v560c0 66.3 53.7 120 120 120h560c66.3 0 120-53.7 120-120v-560c0-66.3-53.7-120-120-120z m40 680c0 22.1-17.9 40-40 40h-560c-22.1 0-40-17.9-40-40v-560c0-22.1 17.9-40 40-40h560c22.1 0 40 17.9 40 40v560z m-560-480v120c0 22.2 17.9 40 40 40h120c22.2 0 40-17.9 40-40v-120c0-22.2-17.9-40-40-40h-120c-22.2 0-40 17.9-40 40z m280 0v120c0 22.2 17.9 40 40 40h120c22.2 0 40-17.9 40-40v-120c0-22.2-17.9-40-40-40h-120c-22.2 0-40 17.9-40 40z m-280 280v120c0 22.2 17.9 40 40 40h120c22.2 0 40-17.9 40-40v-120c0-22.2-17.9-40-40-40h-120c-22.2 0-40 17.9-40 40z m280 0v120c0 22.2 17.9 40 40 40h120c22.2 0 40-17.9 40-40v-120c0-22.2-17.9-40-40-40h-120c-22.2 0-40 17.9-40 40z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-gallery</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-gallery" fill="#000000">
+            <g id="Gallery" transform="translate(2.000000, 2.000000)">
+                <path d="M0,0 L20,0 L20,20 L0,20 L0,0 Z M2,18 L18,18 L18,2 L2,2 L2,18 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="4 4 9 4 9 9 4 9"></polygon>
+                <polygon id="Fill-4" points="4 11 9 11 9 16 4 16"></polygon>
+                <polygon id="Fill-5" points="11 11 16 11 16 16 11 16"></polygon>
+                <polygon id="Fill-6" points="11 4 16 4 16 9 11 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

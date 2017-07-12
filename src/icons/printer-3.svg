@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>printer-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="printer-3" fill="#000000">
+            <g transform="translate(1.000000, 2.000000)">
+                <path d="M19.636,17 L18,17 L18,15 L19.636,15 C19.833,15 20,14.833 20,14.636 L20,9.364 C20,9.167 19.833,9 19.636,9 L2.364,9 C2.166,9 2,9.167 2,9.364 L2,14.636 C2,14.833 2.166,15 2.364,15 L4,15 L4,17 L2.364,17 C1.061,17 0,15.939 0,14.636 L0,9.364 C0,8.06 1.061,7 2.364,7 L19.636,7 C20.939,7 22,8.06 22,9.364 L22,14.636 C22,15.939 20.939,17 19.636,17" id="Fill-2"></path>
+                <path d="M7,16 L15,16 L15,18.125 L7,18.125 L7,16 Z M5,20.125 L17,20.125 L17,14 L5,14 L5,20.125 Z" id="Fill-3"></path>
+                <path d="M15.125,2 L15.125,6.875 L7,6.875 L7,2.829 L7.829,2 L15.125,2 M17.125,0 L7.001,0 L5,2 L5,8.875 L17.125,8.875 L17.125,0" id="Fill-4"></path>
+                <path d="M17,11 C17,11.552 17.448,12 18,12 C18.552,12 19,11.552 19,11 C19,10.448 18.552,10 18,10 C17.448,10 17,10.448 17,11" id="Fill-5"></path>
+                <path d="M14,11 C14,11.552 14.448,12 15,12 C15.552,12 16,11.552 16,11 C16,10.448 15.552,10 15,10 C14.448,10 14,10.448 14,11" id="Fill-6"></path>
+                <polygon id="Fill-7" points="8 5 14 5 14 6 8 6"></polygon>
+                <polygon id="Fill-8" points="8 3 14 3 14 4 8 4"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

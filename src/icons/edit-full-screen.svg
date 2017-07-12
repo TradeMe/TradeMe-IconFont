@@ -1,1 +1,17 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m880 80v280c0 22.1-17.9 40-40 40s-40-17.9-40-40v-143.4l-171.7 171.7c-10 10.4-24.9 14.5-38.9 10.9-14-3.7-24.9-14.6-28.6-28.6-3.6-14 0.5-28.8 10.9-38.9l171.7-171.7h-143.4c-22.1 0-40-17.9-40-40s17.9-40 40-40h280z m-800 280v-280h280c22.1 0 40 17.9 40 40s-17.9 40-40 40h-143.4l171.7 171.7c15.2 15.7 14.9 40.7-0.5 56.1-15.4 15.4-40.4 15.6-56.1 0.5l-171.7-171.7v143.4c0 22.1-17.9 40-40 40s-40-17.9-40-40z m0 520v-240c0-22.1 17.9-40 40-40s40 17.9 40 40v103.4l171.7-171.7c15.7-15.2 40.7-14.9 56.1 0.5 15.4 15.4 15.6 40.4 0.5 56.1l-171.7 171.7h103.4c22.1 0 40 17.9 40 40s-17.9 40-40 40h-240z m800-280v280h-280c-22.1 0-40-17.9-40-40s17.9-40 40-40h143.4l-171.7-171.7c-15.2-15.7-14.9-40.7 0.5-56.1 15.4-15.4 40.4-15.6 56.1-0.5l171.7 171.7v-143.4c0-22.1 17.9-40 40-40s40 17.9 40 40z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-full-screen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-full-screen" fill="#000000">
+            <g id="Full-Screen" transform="translate(2.000000, 2.000000)">
+                <polyline id="Fill-2" points="6.586 12 2 16.586 2 12 0 12 0 20 8 20 8 18 3.414 18 8 13.414 6.586 12"></polyline>
+                <polyline id="Fill-3" points="0 0 0 8 2 8 2 3.414 6.586 8 8 6.586 3.414 2 8 2 8 0 0 0"></polyline>
+                <polyline id="Fill-4" points="18 0 12 0 12 2 16.586 2 12 6.586 13.414 8 18 3.414 18 8 20 8 20 0 18 0"></polyline>
+                <polyline id="Fill-5" points="18 16.586 13.414 12 12 13.414 16.586 18 12 18 12 20 20 20 20 12 18 12 18 16.586"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

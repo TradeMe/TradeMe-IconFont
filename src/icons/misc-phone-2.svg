@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-phone-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-phone-2" fill="#000000">
+            <g id="Phone-2" transform="translate(1.000000, 0.000000)">
+                <path d="M16.462,12.902 L14.333,15.03 L7.97,8.667 L10.098,6.538 L5.743,0.732 L0,3.604 L0,9.227 C0,10.547 0.535,11.838 1.468,12.77 L10.338,21.641 C11.215,22.518 12.38,23 13.619,23 L19.396,23 L22.268,17.257 L16.462,12.902 L16.462,12.902 Z M16.649,15.543 L19.732,17.854 L18.868,19.582 L15.739,16.453 L16.649,15.543 L16.649,15.543 Z M7.457,6.351 L6.547,7.261 L3.418,4.132 L5.146,3.268 L7.457,6.351 L7.457,6.351 Z M13.619,21 C12.914,21 12.251,20.726 11.752,20.227 L2.882,11.356 C2.321,10.796 2,10.019 2,9.227 L2,4.841 L2.37,4.656 L5.762,8.047 L5.142,8.667 L14.333,17.858 L14.953,17.238 L18.344,20.63 L18.159,21 L13.619,21 L13.619,21 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

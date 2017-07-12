@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>emo-1-neutral</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="emo-1-neutral" fill="#000000">
+            <g id="Emo-Neutral-1" transform="translate(1.000000, 1.000000)">
+                <path d="M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0 L11,0 Z M11,20 C6.037,20 2,15.963 2,11 C2,6.037 6.037,2 11,2 C15.963,2 20,6.037 20,11 C20,15.963 15.963,20 11,20 L11,20 Z" id="Fill-2"></path>
+                <path d="M13.531,14 L8.5,14 C8.224,14 8,14.224 8,14.5 C8,14.776 8.224,15 8.5,15 L13.531,15 C13.807,15 14.031,14.776 14.031,14.5 C14.031,14.224 13.807,14 13.531,14" id="Fill-3"></path>
+                <path d="M7,9 C6.448,9 6,9.448 6,10 C6,10.552 6.448,11 7,11 C7.552,11 8,10.552 8,10 C8,9.448 7.552,9 7,9" id="Fill-4"></path>
+                <path d="M15,9 C14.448,9 14,9.448 14,10 C14,10.552 14.448,11 15,11 C15.552,11 16,10.552 16,10 C16,9.448 15.552,9 15,9" id="Fill-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

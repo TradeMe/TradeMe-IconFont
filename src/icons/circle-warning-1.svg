@@ -1,1 +1,16 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m480 80c-220.9 0-400 179.1-400 400s179.1 400 400 400 400-179.1 400-400c0-106.1-42.2-207.8-117.2-282.8-74.9-75.1-176.7-117.2-282.8-117.2z m-320 400c0.2-122 69.8-233.3 179.4-286.9 109.6-53.6 240.2-40.2 336.6 34.5l-448.4 448.4c-43.7-56-67.4-125-67.6-196z m320 320c-71-0.2-140-23.9-196-67.6l448.4-448.4c74.7 96.4 88.1 227 34.5 336.6-53.6 109.6-164.9 179.2-286.9 179.4z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-warning-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-warning-1" fill="#000000">
+            <g id="Warning-Error" transform="translate(0.000000, 2.000000)">
+                <path d="M23.756,20 L0.259,20 L12.007,0.027 L23.756,20 L23.756,20 Z M3.756,18 L20.259,18 L12.007,3.973 L3.756,18 L3.756,18 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="11.007 8 13.007 8 13.007 13 11.007 13"></polygon>
+                <polygon id="Fill-4" points="11.007 14 13.007 14 13.007 16 11.007 16"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-percentage</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-percentage" fill="#000000">
+            <g id="Imported-Layers" transform="translate(2.000000, 2.000000)">
+                <path d="M4,8 C6.206,8 8,6.206 8,4 C8,1.794 6.206,0 4,0 C1.794,0 0,1.794 0,4 C0,6.206 1.794,8 4,8 L4,8 Z M4,2 C5.103,2 6,2.897 6,4 C6,5.103 5.103,6 4,6 C2.897,6 2,5.103 2,4 C2,2.897 2.897,2 4,2 L4,2 Z" id="Fill-1"></path>
+                <path d="M16,12 C13.794,12 12,13.794 12,16 C12,18.206 13.794,20 16,20 C18.206,20 20,18.206 20,16 C20,13.794 18.206,12 16,12 L16,12 Z M16,18 C14.897,18 14,17.103 14,16 C14,14.897 14.897,14 16,14 C17.103,14 18,14.897 18,16 C18,17.103 17.103,18 16,18 L16,18 Z" id="Fill-2"></path>
+                <path d="M19.707,1.707 C19.888,1.526 20,1.276 20,1 C20,0.448 19.552,0 19,0 C18.724,0 18.474,0.112 18.293,0.293 L0.293,18.293 C0.112,18.474 0,18.724 0,19 C0,19.552 0.448,20 1,20 C1.276,20 1.526,19.888 1.707,19.707 L19.707,1.707" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

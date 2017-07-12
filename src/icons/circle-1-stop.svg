@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-1-stop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-1-stop" fill="#000000">
+            <g id="Stop---circle" transform="translate(1.000000, 1.000000)">
+                <path d="M11,2 C15.963,2 20,6.037 20,11 C20,15.963 15.963,20 11,20 C6.037,20 2,15.963 2,11 C2,6.037 6.037,2 11,2 M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0" id="Fill-2"></path>
+                <path d="M9,9 L13,9 L13,13 L9,13 L9,9 Z M7,15 L15,15 L15,7 L7,7 L7,15 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,15 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m282.5 880h397.5c88.4 0 160-71.6 160-160v-520h-164c-18.9-93.2-100.9-160.2-196-160.2-95.1 0-177.1 67-196 160.2h-161.5v520c0 88.4 71.6 160 160 160z m197.5-760c50.7 0.2 95.8 32.2 112.6 80h-225.2c16.8-47.8 62-79.8 112.6-80z m-277.5 160h77.5v160c0 22.1 17.9 40 40 40s40-17.9 40-40v-160h240v160c0 22.1 17.9 40 40 40s40-17.9 40-40v-160h80v440c0 44.2-35.8 80-80 80h-397.5c-44.2 0-80-35.8-80-80v-440z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>shop-shopping-bag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shop-shopping-bag" fill="#000000">
+            <g id="Shopping-Bag" transform="translate(4.000000, 1.000000)">
+                <path d="M16,5 L12.996,5 L12.995,3.906 C12.868,2.555 11.66,0 8,0 C4.34,0 3.132,2.555 3,4 L3,5 L0,5 L0,20 C0,21.067 0.898,21.937 2.001,21.937 L14,21.937 C15.104,21.937 16.001,21.067 16.001,20 L16,5 L16,5 Z M14.002,7 L14.004,8 L12.998,8 L12.998,7 L14.002,7 L14.002,7 Z M4.995,4.094 C5.004,4.009 5.226,2 8,2 C10.53,2 10.938,3.633 11,4.063 L11,5 L4.996,5 L4.995,4.094 L4.995,4.094 Z M2,7 L3,7 L3,8 L2,8 L2,7 Z M14,19.937 L2,20 L2,9 L3,9 L3,10 L5,10 L4.999,9 L5.951,9 L5.951,8 L4.998,8 L4.998,7 L11,7 L11,8 L9.96,8 L9.96,9 L11,9 L11,10 L13,10 L12.999,9 L14.005,9 L14.024,19.931 L14,19.937 L14,19.937 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="7 8 9.01 8 9.01 9 7 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

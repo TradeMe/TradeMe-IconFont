@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>sound-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sound-1" fill="#000000">
+            <g id="Sound-1" transform="translate(1.000000, 2.000000)">
+                <path d="M6.519,5 L0,5 L0,15 L6.519,15 L10.519,20 L13,20 L13,0 L10.519,0 L6.519,5 L6.519,5 Z M11,17.399 L7.481,13 L2,13 L2,7 L7.481,7 L11,2.601 L11,17.399 L11,17.399 Z" id="Fill-2"></path>
+                <path d="M17,10 C17,6.958 15,6 15,6 L15,14 C15,14 17,13.042 17,10" id="Fill-3"></path>
+                <path d="M15,2 L15,4 C15.171,4.038 19,4.955 19,10 C19,15.046 15.166,15.964 15,16 L15,18 C17.333,17.5 21,15.366 21,10 C21,4.634 17.167,2.375 15,2" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

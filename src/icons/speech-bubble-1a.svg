@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>speech-bubble-1a</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="speech-bubble-1a" fill="#000000">
+            <g id="Speech-bubble-1a" transform="translate(1.000000, 3.000000)">
+                <path d="M16.576,15.944 L5.424,15.944 C4.194,15.944 3.036,15.544 2.073,14.786 C0.756,13.749 0,12.194 0,10.52 L0,5.424 C0,2.434 2.434,0 5.424,0 L16.576,0 C19.566,0 22,2.434 22,5.424 L22,10.52 C22,13.511 19.566,15.944 16.576,15.944 L16.576,15.944 Z M5.424,2 C3.536,2 2,3.536 2,5.424 L2,10.52 C2,11.577 2.477,12.56 3.31,13.214 C3.917,13.691 4.648,13.944 5.424,13.944 L16.576,13.944 C18.464,13.944 20,12.408 20,10.52 L20,5.424 C20,3.536 18.464,2 16.576,2 L5.424,2 L5.424,2 Z" id="Fill-2"></path>
+                <path d="M3,15 L3,17.533 C3,18.109 3.675,18.418 4.111,18.043 L7,15.555" id="Fill-3"></path>
+                <polyline id="Fill-4" points="12.354 9.354 11.647 8.646 16.647 3.646 17.354 4.353 12.354 9.354"></polyline>
+                <polyline id="Fill-5" points="15.521 9.354 14.814 8.646 16.813 6.646 17.521 7.353 15.521 9.354"></polyline>
+                <polyline id="Fill-6" points="12.354 6.354 11.647 5.646 13.647 3.646 14.354 4.353 12.354 6.354"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

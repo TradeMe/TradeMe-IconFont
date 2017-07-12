@@ -1,1 +1,16 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m760 440c-22.1 0-40 17.9-40 40v270.4l-200-116.7-200 116.7v-550.4c-0.2-13.7-3-27.3-8.2-40h128.2c22.1 0 40-17.9 40-40s-17.9-40-40-40h-240c-65.2 2.4-117.6 54.8-120 120v200h160v489.6l280-163.3 280 163.3v-409.6c0-22.1-17.9-40-40-40z m-520-120h-80v-120c2.3-21 19-37.7 40-40 21 2.4 37.6 19 40 40v120z m600-160h-80v-80c0-22.1-17.9-40-40-40s-40 17.9-40 40v80h-80c-22.1 0-40 17.9-40 40s17.9 40 40 40h80v80c0 22.1 17.9 40 40 40s40-17.9 40-40v-80h80c22.1 0 40-17.9 40-40s-17.9-40-40-40z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmark-add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookmark-add" fill="#000000">
+            <g id="Bookmark-Plus" transform="translate(4.000000, 1.000000)">
+                <polyline id="Fill-2" points="14 19.119 8 14.834 2 19.119 2 4.063 8 4.063 8 3.063 2.393 3.063 3.423 2 12.577 2 13.607 3.063 12 3.063 12 4.063 14 4.063 14 6 16 6 16 2.657 13.423 0 2.577 0 0 2.657 0 23.006 8 17.292 16 23.006 16 16 14 16 14 19.119"></polyline>
+                <polygon id="Fill-3" points="9 3.063 11 3.063 11 4.063 9 4.063"></polygon>
+                <polyline id="Fill-4" points="19 10 16 10 16 7 14 7 14 10 11 10 11 12 14 12 14 15 16 15 16 12 19 12 19 10"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>cart-2-add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cart-2-add" fill="#000000">
+            <g id="Imported-Layers" transform="translate(1.000000, 2.000000)">
+                <path d="M15,6 L3.739,6 L3.629,5.395 C3.273,4.136 2.371,4 2,4 L0,4 L0,6 L1.711,6 L3,13.09 L3,16 C3,16.552 3.448,17 4,17 L13,17 L13,15 L5,15 L5,14 L13,14 C13.431,14 13.814,13.724 13.949,13.315 C14.687,11.086 15.81,7.703 15.927,7.375 C16.023,7.136 16.026,6.864 15.924,6.617 C15.769,6.244 15.404,6 15,6 L15,6 Z M12.278,12 L4.834,12 L4.104,8 L13.608,8 C13.329,8.825 12.914,10.078 12.278,12 L12.278,12 Z" id="Fill-1"></path>
+                <path d="M3,18.5 C3,19.328 3.672,20 4.5,20 C5.328,20 6,19.328 6,18.5 C6,17.672 5.328,17 4.5,17 C3.672,17 3,17.672 3,18.5" id="Fill-2"></path>
+                <path d="M10,18.5 C10,19.328 10.672,20 11.5,20 C12.328,20 13,19.328 13,18.5 C13,17.672 12.328,17 11.5,17 C10.672,17 10,17.672 10,18.5" id="Fill-3"></path>
+                <polyline id="Fill-4" points="20 2 20 0 18 0 18 2 16 2 16 4 18 4 18 6 20 6 20 4 22 4 22 2 20 2"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,15 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m200 239.6c-10.6 0-20.8 4.2-28.3 11.8-7.5 7.5-11.7 17.7-11.7 28.3v480c0 22.1 17.9 40 40 40h480c22.1 0 40-17.9 40-40v-133.1c0-22 17.9-40 40-40s40 18 40 40v133c0 66.4-53.7 120-120 120h-480c-66.3 0-120-53.6-120-120v-480c0-66.2 53.7-120 120-120h133.3c22.1 0 40 18 40 40 0 22.2-17.9 40-40 40h-133.3z m680-159.6v320c0 22.1-17.9 40-40 40s-40-17.9-40-40v-183.4l-211.7 211.7c-10 10.4-24.9 14.5-38.9 10.9-14-3.7-24.9-14.6-28.6-28.6-3.6-14 0.5-28.8 10.9-38.9l211.7-211.7h-183.4c-22.1 0-40-17.9-40-40s17.9-40 40-40h320z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-expand-window</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-expand-window" fill="#000000">
+            <g id="Expand-Window" transform="translate(2.000000, 2.000000)">
+                <polyline id="Fill-2" points="18 18 2 18 2 2 10 2 10 0 0 0 0 20 20 20 20 10 18 10 18 18"></polyline>
+                <polyline id="Fill-3" points="18 0 12 0 12 2 16.586 2 12 6.586 13.414 8 18 3.414 18 8 20 8 20 0 18 0"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

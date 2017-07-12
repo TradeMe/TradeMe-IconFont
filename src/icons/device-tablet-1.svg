@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>device-tablet-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device-tablet-1" fill="#000000">
+            <path d="M0,20 L24,20 L24,2 L0,2 L0,20 Z M1.125,11 C1.125,10.517 1.517,10.125 2,10.125 C2.483,10.125 2.875,10.517 2.875,11 C2.875,11.483 2.483,11.875 2,11.875 C1.517,11.875 1.125,11.483 1.125,11 L1.125,11 Z M4.072,4 L22.001,4 L22.001,18 L4.072,18 L4.072,4 Z" id="Imported-Layers" transform="translate(12.500000, 11.500000) rotate(-90.000000) translate(-12.500000, -11.500000) "></path>
+        </g>
+    </g>
+</svg>

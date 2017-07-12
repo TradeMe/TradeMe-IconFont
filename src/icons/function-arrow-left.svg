@@ -1,1 +1,14 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m668.3 91.7c-15.6-15.6-41-15.6-56.6 0l-360 360c-15.6 15.6-15.6 41 0 56.6l360 360c15.7 15.2 40.7 14.9 56.1-0.5 15.4-15.4 15.6-40.4 0.5-56.1l-331.7-331.7 331.7-331.7c15.6-15.6 15.6-41 0-56.6z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>function-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="function-arrow-left" fill="#000000">
+            <g id="Arrow-Left" transform="translate(6.000000, 3.000000)">
+                <polyline id="Fill-2" points="9.293 17.707 0.586 9 9.293 0.293 10.707 1.707 3.414 9 10.707 16.293 9.293 17.707"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

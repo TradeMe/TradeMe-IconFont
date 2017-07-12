@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>box-2-details</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box-2-details" fill="#000000">
+            <g id="Box-2b" transform="translate(2.000000, 2.000000)">
+                <path d="M17,0 L3,0 L0,2 L0,20 L20,20 L20,2 L17,0 L17,0 Z M2,8.505 C2.411,8.115 3.53,7.032 6.631,4 L7.938,4 L7.938,5.382 C5.738,7.55 3.453,9.799 2,11.221 L2,8.505 L2,8.505 Z M2,7.118 L2,4 L5.2,4 C4.032,5.141 2.798,6.344 2,7.118 L2,7.118 Z M2,12.615 C3.063,11.584 5.04,9.643 7.938,6.787 L7.938,9.397 C6.22,11.09 3.614,13.658 2,15.249 L2,12.615 L2,12.615 Z M2,16.654 C3.268,15.402 5.945,12.764 7.938,10.801 L7.938,12 L9.356,12 L3.356,18 L2,18 L2,16.654 L2,16.654 Z M18,18 L8.838,18 L9.805,17.068 L9.111,16.348 L7.398,18 L4.769,18 L10.769,12 L12.063,12 L12.063,4 L18,4 L18,18 L18,18 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="9.654 15.639 10.346 16.361 11.346 15.403 10.654 14.681 9.654 15.639"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

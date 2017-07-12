@@ -1,1 +1,15 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m895.5 761.7c13.5 24.8 13 54.9-1.5 79.2-14.4 24.2-40.5 39.1-68.8 39.1h-690.4c-28.3 0-54.4-14.9-68.8-39.2-14.5-24.2-15-54.3-1.5-79.1l345.2-632.9c14-25.8 41-41.8 70.3-41.8s56.2 16 70.2 41.7l345.2 632.9z m-455.5-361.7c0-22.1 17.9-40 40-40s40 17.9 40 40v200c0 22.1-17.9 40-40 40s-40-17.9-40-40v-200z m40 370c-27.6 0-50-22.4-50-50s22.4-50 50-50 50 22.4 50 50-22.4 50-50 50z m-345.2 30h690.4l-345.2-632.9h-0.4l-344.8 632.9z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-warning" fill="#000000">
+            <g id="Warning---circle" transform="translate(1.000000, 1.000000)">
+                <path d="M11,2 C15.963,2 20,6.037 20,11 C20,15.963 15.963,20 11,20 C6.037,20 2,15.963 2,11 C2,6.037 6.037,2 11,2 M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0" id="Fill-2"></path>
+                <polyline id="Fill-3" points="17.293 3.293 3.293 17.293 4.707 18.707 18.707 4.707"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

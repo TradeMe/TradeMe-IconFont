@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>speech-bubble-2d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="speech-bubble-2d" fill="#000000">
+            <g id="Speech-bubble-2d" transform="translate(1.000000, 3.000000)">
+                <path d="M22,0 L0,0 L0,15.944 L3,15.944 L3,19 L6.549,15.944 L22,15.944 L22,0 L22,0 Z M2,7.471 C3.02,6.463 4.848,4.63 7.455,2 L10.035,2 L2,10.035 L2,7.471 L2,7.471 Z M6.046,2 C4.641,3.415 3.112,4.952 2,6.062 L2,2 L6.046,2 L6.046,2 Z M20,13.944 L3.763,13.944 L7.353,10.353 L6.646,9.647 L2.349,13.944 L2,13.944 L2,11.449 L11.449,2 L20,2 L20,13.944 L20,13.944 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="7.646 8.646 8.353 9.354 9.354 8.354 8.646 7.646 7.646 8.646"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

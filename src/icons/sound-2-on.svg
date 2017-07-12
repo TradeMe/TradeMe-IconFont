@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>sound-2-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sound-2-on" fill="#000000">
+            <g id="Sound-2-On" transform="translate(1.000000, 1.000000)">
+                <path d="M13,21.081 L6.649,16 L0,16 L0,6 L6.649,6 L13,0.919 L13,21.081 L13,21.081 Z M2,14 L7.351,14 L11,16.919 L11,5.081 L7.351,8 L2,8 L2,14 L2,14 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="16 10 20.821 10 20.821 12 16 12"></polygon>
+                <polyline id="Fill-4" points="15 16.716 16.027 15 20.412 17.623 19.386 19.34 15 16.716"></polyline>
+                <polyline id="Fill-5" points="19.348 2.613 20.399 4.315 16.051 7 15 5.298 19.348 2.613"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

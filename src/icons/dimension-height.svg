@@ -1,1 +1,14 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m668.3 651.7c-15.6-15.6-41-15.6-56.6 0l-91.7 91.7v-526.8l91.7 91.7c15.7 15.2 40.7 14.9 56.1-0.5 15.4-15.4 15.6-40.4 0.5-56.1l-160-160-28.3-28.3-28.2 28.3-160 160c-15.2 15.7-15 40.6 0.4 56.1 15.4 15.4 40.4 15.6 56.1 0.5l91.7-91.7v526.8l-91.7-91.7c-15.7-15.2-40.7-14.9-56.1 0.5-15.4 15.4-15.6 40.4-0.5 56.1l160 160 28.3 28.2 28.2-28.2 160-160c15.6-15.6 15.6-40.9 0-56.6z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>dimension-height</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dimension-height" fill="#000000">
+            <g id="Page-1" transform="translate(5.000000, 1.000000)">
+                <polygon id="Fill-3" points="8 17.5859 8 4.4139 12.293 8.7069 13.707 7.2929 7 0.5859 0.293 7.2929 1.707 8.7069 6 4.4139 6 17.5859 1.707 13.2929 0.293 14.7069 7 21.4139 13.707 14.7069 12.293 13.2929"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
