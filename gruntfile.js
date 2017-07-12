@@ -40,8 +40,7 @@ module.exports = function(grunt) {
                     descent: 0,
                     ligatures: true,
                     stylesheets: [],
-                    htmlDemo: false,
-                    codepointsFile: 'src/codepoints'
+                    htmlDemo: false
                 }
             }
         }
