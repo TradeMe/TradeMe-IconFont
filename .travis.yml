@@ -1,4 +1,10 @@
 language: node_js
 os: osx
+cache:
+  directories:
+    - "node_modules"
 before_install:
   brew install ttfautohint fontforge --with-python
+before_script:
+  - npm install -g grunt-cli
+script: grunt
