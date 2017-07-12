@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>social-facebook-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-facebook-3" fill="#000000">
+            <path d="M12,0 C5.383,0 0,5.383 0,12 C0,18.617 5.383,24 12,24 C18.617,24 24,18.617 24,12 C24,5.383 18.617,0 12,0 L12,0 Z M14,9 L13,9 C11.95,9.039 11.987,9.972 12,10.034 L12,9.995 C12.003,10.035 12.002,10.043 12,10.034 L12,10.995 L14,11 L14,13 L12,13 L12,17 L10,17 L10,13 L9,13 L9,11 L10,11 L10,9.995 C10,6.651 13,7 13,7 L14,7 L14,9 L14,9 Z" id="Imported-Layers"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>speech-bubble-2c</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="speech-bubble-2c" fill="#000000">
+            <g id="Speech-bubble-2c" transform="translate(1.000000, 3.000000)">
+                <path d="M22,0.056 L0,0.056 L0,16 L3,16 L3,19 L6.484,16 L22,16 L22,0.056 L22,0.056 Z M2,2.056 L20,2.056 L20,14 L2,14 L2,2.056 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="5 5 17 5 17 6.979 5 6.979"></polygon>
+                <polygon id="Fill-4" points="5 9.046 17 9.046 17 11 5 11"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

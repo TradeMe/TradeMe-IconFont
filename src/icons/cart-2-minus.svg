@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>cart-2-minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cart-2-minus" fill="#000000">
+            <g id="Imported-Layers" transform="translate(1.000000, 4.000000)">
+                <path d="M15,4 L3.739,4 L3.629,3.395 C3.273,2.136 2.371,2 2,2 L0,2 L0,4 L1.711,4 L3,11.09 L3,14 C3,14.552 3.448,15 4,15 L13,15 L13,13 L5,13 L5,12 L13,12 C13.431,12 13.814,11.724 13.949,11.315 C14.687,9.086 15.81,5.703 15.927,5.375 C16.023,5.136 16.026,4.864 15.924,4.617 C15.769,4.244 15.404,4 15,4 L15,4 Z M12.278,10 L4.834,10 L4.104,6 L13.608,6 C13.329,6.825 12.914,8.078 12.278,10 L12.278,10 Z" id="Fill-1"></path>
+                <path d="M3,16.5 C3,17.328 3.672,18 4.5,18 C5.328,18 6,17.328 6,16.5 C6,15.672 5.328,15 4.5,15 C3.672,15 3,15.672 3,16.5" id="Fill-2"></path>
+                <path d="M10,16.5 C10,17.328 10.672,18 11.5,18 C12.328,18 13,17.328 13,16.5 C13,15.672 12.328,15 11.5,15 C10.672,15 10,15.672 10,16.5" id="Fill-3"></path>
+                <polygon id="Fill-4" points="16 0 22 0 22 2 16 2"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

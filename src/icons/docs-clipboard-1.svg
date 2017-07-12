@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>docs-clipboard-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="docs-clipboard-1" fill="#000000">
+            <g id="Imported-Layers" transform="translate(3.000000, 1.000000)">
+                <polygon id="Fill-1" points="4.969 10 12.969 10 12.969 11 4.969 11"></polygon>
+                <polygon id="Fill-2" points="4.969 8 12.969 8 12.969 9 4.969 9"></polygon>
+                <polygon id="Fill-3" points="4.969 12 10.969 12 10.969 13 4.969 13"></polygon>
+                <polygon id="Fill-4" points="4.969 6 12.892 6 12.892 7 4.969 7"></polygon>
+                <path d="M16.014,1 L12.98,1 L12.969,0 L4.969,0 L4.969,1 L2.969,1 L2.969,18 L14.969,18 L14.969,3 L15.969,3.006 L15.969,19 L2,19 L2,3.19 C2.001,3.108 2.006,3.046 2.013,3 L2.969,3 L2.969,1 L1.969,1 C1.514,1 0.027,1.156 0,3.177 L0,21 L17.969,21 L17.969,3 C17.969,1.785 17.201,1 16.014,1 L16.014,1 Z M5.969,1 L11.98,1 L11.99,2 L5.969,2 L5.969,1 L5.969,1 Z M13.969,17 L3.969,17 L3.969,2 L4.969,2 L4.969,3 L13.001,3 L12.991,2 L13.969,2 L13.969,17 L13.969,17 Z" id="Fill-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,16 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m840 160h-560c-66.3 0-120 53.7-120 120v560c0 66.3 53.7 120 120 120h560c66.3 0 120-53.7 120-120v-560c0-66.3-53.7-120-120-120z m-560 80h560c22.1 0 40 17.9 40 40v120h-640v-120c0-22.1 17.9-40 40-40z m560 640h-560c-22.1 0-40-17.9-40-40v-360h640v360c0 22.1-17.9 40-40 40z m-760-120c-22.1 0-40-17.9-40-40v-520c0-88.4 71.6-160 160-160h520c22.1 0 40 17.9 40 40s-17.9 40-40 40h-520c-44.2 0-80 35.8-80 80v520c0 22.1-17.9 40-40 40z m240-400c-22.1 0-40-17.9-40-40s17.9-40 40-40 40 17.9 40 40-17.9 40-40 40z m120 0c-22.1 0-40-17.9-40-40s17.9-40 40-40h340c22.1 0 40 17.9 40 40s-17.9 40-40 40h-340z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-window-layers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-window-layers" fill="#000000">
+            <g id="Window-Layers" transform="translate(2.000000, 2.000000)">
+                <path d="M20,0 L3,0 L3,3 L0,3 L0,20 L17,20 L17,17 L20,17 L20,0 L20,0 Z M2,5 L15,5 L15,8.876 L2,8.876 L2,5 Z M2,11 L15,11 L15,18 L2,18 L2,11 Z M18,15 L17,15 L17,3 L5,3 L5,2 L18,2 L18,15 L18,15 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="3 6 5 6 5 8 3 8"></polygon>
+                <polygon id="Fill-4" points="6.031 6 14 6 14 8 6.031 8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

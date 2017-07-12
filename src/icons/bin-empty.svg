@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>bin-empty</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bin-empty" fill="#000000">
+            <g id="Bin-Empty" transform="translate(4.000000, 2.000000)">
+                <path d="M11.937,3 L11.937,1 C11.937,0.448 11.49,0 10.937,0 L5,0 C4.448,0 4,0.448 4,1 L4,3 L0,3 L0,5 L16,5 L16,3 L11.937,3 L11.937,3 Z M6,2 L9.938,2 L9.938,3 L6,3 L6,2 Z" id="Fill-2"></path>
+                <path d="M1,16.86 C1,18.006 1.932,18.937 3.077,18.937 L12.922,18.937 C14.068,18.937 15,18.006 15,16.86 L15,6.168 L1,6.168 L1,16.86 L1,16.86 Z M3,8.169 L13,8.169 L13,16.86 L12.922,16.937 L3.077,16.937 L3,16.86 L3,8.169 L3,8.169 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

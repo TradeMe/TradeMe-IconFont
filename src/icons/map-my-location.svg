@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>map-my-location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-my-location" fill="#000000">
+            <g id="My-Location" transform="translate(1.000000, 1.000000)">
+                <path d="M11,20 C6.037,20 2,15.962 2,11 C2,6.038 6.037,2 11,2 C15.963,2 20,6.038 20,11 C20,15.962 15.963,20 11,20 L11,20 Z M11,4 C7.141,4 4,7.14 4,11 C4,14.86 7.141,18 11,18 C14.859,18 18,14.86 18,11 C18,7.14 14.859,4 11,4 L11,4 Z" id="Fill-2"></path>
+                <path d="M15,11 C15,13.209 13.209,15 11,15 C8.791,15 7,13.209 7,11 C7,8.791 8.791,7 11,7 C13.209,7 15,8.791 15,11" id="Fill-3"></path>
+                <polygon id="Fill-4" points="10 0 12 0 12 3 10 3"></polygon>
+                <polygon id="Fill-5" points="10 19 12 19 12 22 10 22"></polygon>
+                <polygon id="Fill-6" points="10 0 12 0 12 3 10 3"></polygon>
+                <polygon id="Fill-7" points="10 19 12 19 12 22 10 22"></polygon>
+                <polygon id="Fill-8" points="19 10 22 10 22 12 19 12"></polygon>
+                <polygon id="Fill-9" points="0 10 3 10 3 12 0 12"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

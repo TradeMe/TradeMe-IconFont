@@ -1,1 +1,21 @@
-<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960"><path d="m160 880h600c66.3 0 120-53.7 120-120v-480c0-66.3-53.7-120-120-120h-40v-40c0-22.1-17.9-40-40-40s-40 17.9-40 40v40h-360v-40c0-22.1-17.9-40-40-40s-40 17.9-40 40v40h-40c-66.3 0-120 53.7-120 120v480c0 66.3 53.7 120 120 120z m600-80h-600c-22.1 0-40-17.9-40-40v-320h680v320c0 22.1-17.9 40-40 40z m-600-560h40v40c0 22.1 17.9 40 40 40s40-17.9 40-40v-40h360v40c0 22.1 17.9 40 40 40s40-17.9 40-40v-40h40c22.1 0 40 17.9 40 40v80h-680v-80c0-22.1 17.9-40 40-40z m0 240h120v120h-120v-120z m160 0h120v120h-120v-120z m160 0h120v120h-120v-120z m-320 160h120v120h-120v-120z m160 0h120v120h-120v-120z m160 0h120v120h-120v-120z m160-160h120v120h-120v-120z m0 160h120v120h-120v-120z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="calendar" fill="#000000">
+            <g id="Calendar-1" transform="translate(1.000000, 1.000000)">
+                <polygon id="Fill-2" points="13.008 7 15.008 7 15.008 8 13.008 8"></polygon>
+                <path d="M19,1.996 L19,0 L17,0 L17,1.996 L5,1.996 L5,0 L3,0 L3,1.996 L0.977,1.996 L0.977,21.034 L21.103,21.034 L21.103,1.996 L19,1.996 L19,1.996 Z M2.978,19.034 L2.978,8 L12.088,8 L12.088,7 L2.978,7 L2.978,3.996 L19.103,3.996 L19.103,7 L16.03,7 L16.03,8 L19.103,8 L19.103,19.034 L2.978,19.034 L2.978,19.034 Z" id="Fill-3"></path>
+                <polygon id="Fill-4" points="14.029 9.021 17.972 9.021 17.972 12.964 14.029 12.964"></polygon>
+                <polygon id="Fill-5" points="4.057 9.021 8 9.021 8 12.964 4.057 12.964"></polygon>
+                <polygon id="Fill-6" points="9.057 9.021 13 9.021 13 12.964 9.057 12.964"></polygon>
+                <polygon id="Fill-7" points="14.029 14.029 17.972 14.029 17.972 17.972 14.029 17.972"></polygon>
+                <polygon id="Fill-8" points="4.057 14.029 8 14.029 8 17.972 4.057 17.972"></polygon>
+                <polygon id="Fill-9" points="9.057 14.029 13 14.029 13 17.972 9.057 17.972"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-loader</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-loader" fill="#000000">
+            <g id="Loader">
+                <polygon id="Fill-2" points="11 0 13 0 13 6 11 6"></polygon>
+                <polygon id="Fill-3" points="11 18 13 18 13 23.94 11 23.94"></polygon>
+                <polygon id="Fill-4" points="18 11 24 11 24 13 18 13"></polygon>
+                <polygon id="Fill-5" points="0 11 6 11 6 13 0 13"></polygon>
+                <polyline id="Fill-6" points="15.536 16.95 16.95 15.536 21.192 19.778 19.778 21.192 15.536 16.95"></polyline>
+                <polyline id="Fill-7" points="2.808 4.222 4.222 2.808 8.464 7.05 7.05 8.465 2.808 4.222"></polyline>
+                <polyline id="Fill-8" points="7.05 15.536 8.464 16.95 4.222 21.192 2.808 19.778 7.05 15.536"></polyline>
+                <polyline id="Fill-9" points="19.778 2.808 21.192 4.222 16.95 8.465 15.536 7.05 19.778 2.808"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
