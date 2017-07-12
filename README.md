@@ -8,7 +8,7 @@ Workflow for creating the iconfont for Trade Me 2015 style icons used in **Class
 ### v11
 * Archived font made with Fontastic
 
-Full release notes with icon commissions and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
+Full release notes with new icons and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
 
 ## Installation
 
@@ -17,9 +17,8 @@ brew update
 brew install ttfautohint fontforge --with-python
 npm install
 ```
-`fontforge` is only required for Sketch toolkit font ligatures
-
-Can use `Node` for production
+* `fontforge` is only required for Sketch toolkit font ligatures
+* Can use `Node` for production
 
 ### XQuartz
 Install [XQuartz](http://xquartz.macosforge.org/)
