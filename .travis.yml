@@ -1,2 +1,4 @@
 language: node_js
 os: osx
+before_install:
+  brew install ttfautohint fontforge --with-python
