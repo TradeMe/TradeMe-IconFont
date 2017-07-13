@@ -11,10 +11,10 @@ addons:
       - fontforge
 before_install:
   # Download and unzip Sketch.
-  - "wget https://www.sketchapp.com/download/sketch.zip"
-  - "unzip sketch.zip"
+  - wget https://www.sketchapp.com/download/sketch.zip
+  - unzip sketch.zip
   # Install SketchTool
-  - "Sketch.app/Contents/Resources/sketchtool/install.sh"
+  - Sketch.app/Contents/Resources/sketchtool/install.sh
 script:
   - grunt
 deploy:
