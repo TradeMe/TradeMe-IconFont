@@ -4,8 +4,10 @@
   "description": "SVG to iconfont converter for Trade Classic icons",
   "main": "gruntfile.js",
   "dependencies": {
-    "grunt": "^1.0.1",
     "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
