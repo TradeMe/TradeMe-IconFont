@@ -26,6 +26,7 @@ module.exports = function(grunt) {
                     descent: 0,
                     codepointsFile: 'src/codepoints',
                     htmlDemo: true,
+                    htmlDemoTemplate: 'src/templates/tmicons-demo.html',
                     destHtml: 'iconfont'
                 }
             },
