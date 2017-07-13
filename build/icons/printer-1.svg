@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>printer-1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="printer-1" fill="#000000">
+            <g id="Printer-1" transform="translate(1.000000, 3.000000)">
+                <path d="M19.636,8 L18.002,8 L18.002,0 L4.003,0 L4.003,8 L2.364,8 C1.061,8 0,9.061 0,10.364 L0,16.636 C0,17.94 1.061,19 2.364,19 L19.636,19 C20.939,19 22,17.94 22,16.636 L22,10.364 C22,9.061 20.939,8 19.636,8 L19.636,8 Z M6.003,2 L16.003,2 L16.003,8 L6.003,8 L6.003,2 Z M20,16.636 C20,16.834 19.833,17 19.636,17 L2.364,17 C2.166,17 2,16.834 2,16.636 L2,10.364 C2,10.167 2.166,10 2.364,10 L19.636,10 C19.833,10 20,10.167 20,10.364 L20,16.636 L20,16.636 Z" id="Fill-2"></path>
+                <path d="M18,13 C18.552,13 19,12.552 19,12 C19,11.448 18.552,11 18,11 C17.448,11 17,11.448 17,12 C17,12.552 17.448,13 18,13" id="Fill-3"></path>
+                <polygon id="Fill-4" points="7.502 3 14.502 3 14.502 4 7.502 4"></polygon>
+                <path d="M18.501,14 L3.432,14 C3.156,14 2.932,14.224 2.932,14.5 C2.932,14.776 3.156,15 3.432,15 L18.501,15 C18.777,15 19.001,14.776 19.001,14.5 C19.001,14.224 18.777,14 18.501,14" id="Fill-5"></path>
+                <polygon id="Fill-6" points="7.502 5 12.781 5 12.781 6 7.502 6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-crop</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-crop" fill="#000000">
+            <g id="Imported-Layers" transform="translate(1.000000, 1.000000)">
+                <path d="M4.707,18 L18,4.707 L18,16 L20,16 L20,3 C20,2.914 19.971,2.836 19.951,2.756 L21.353,1.353 C21.549,1.158 21.549,0.842 21.353,0.647 C21.158,0.451 20.842,0.451 20.647,0.647 L19.244,2.049 C19.164,2.029 19.086,2 19,2 L6,2 L6,4 L17.293,4 L4,17.293 L4,0 L2,0 L2,19 C2,19.552 2.448,20 3,20 L18,20 L18,22 L20,22 L20,20 L22,20 L22,18 L4.707,18" id="Fill-1"></path>
+                <polygon id="Fill-2" points="0.06 2 1.989 2 1.989 4 0.06 4"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

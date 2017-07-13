@@ -5,6 +5,7 @@
   "main": "gruntfile.js",
   "dependencies": {
     "grunt-contrib-compress": "^1.4.3",
+    "grunt-sketch": "^1.0.5",
     "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git"
   },
   "devDependencies": {

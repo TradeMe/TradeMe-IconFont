@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud-upload</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud-upload" fill="#000000">
+            <g id="Imported-Layers" transform="translate(0.000000, 1.000000)">
+                <polygon id="Fill-1" points="12 9.389 14 9.389 14 20 12 20"></polygon>
+                <polyline id="Fill-2" points="13 7 16.707 10.707 15.293 12.121 13 9.828 10.707 12.121 9.293 10.707 13 7"></polyline>
+                <path d="M18.979,4.103 C17.574,1.593 14.894,0 12,0 C8.325,0 5.126,2.552 4.247,6.057 C1.846,6.421 0,8.499 0,11 C0,13.757 2.243,16 5,16 C6.102,16 7.176,15.625 8.046,14.95 C9.246,15.637 10.621,15.973 12,15.975 L12,13.976 C10.772,13.973 9.547,13.614 8.52,12.881 L7.8,12.366 L7.202,13.019 C6.622,13.651 5.84,14 5,14 C3.346,14 2,12.654 2,11 C2,9.363 3.319,8.027 4.95,8 L5.943,8.024 L6.068,7.149 C6.486,4.213 9.036,2 12,2 C14.311,2 16.442,3.357 17.428,5.458 L17.679,5.992 L18.267,6.031 C20.36,6.172 22,7.915 22,10 C22,12.206 20.206,14 18,14 C17.298,14 16.613,13.804 16,13.446 L16,15.647 C16.641,15.876 17.315,16 18,16 C21.309,16 24,13.309 24,10 C24,7.062 21.837,4.575 18.979,4.103" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

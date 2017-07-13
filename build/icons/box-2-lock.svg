@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>box-2-lock</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box-2-lock" fill="#000000">
+            <g id="Box-2-Lock" transform="translate(2.000000, 2.000000)">
+                <path d="M17,0 L3,0 L0,2 L0,20 L20,20 L20,2 L17,0 L17,0 Z M18,18 L2,18 L2,4 L7.907,4 L7.907,6.879 L12.032,6.879 L12.032,4 L18,4 L18,18 L18,18 Z" id="Fill-1"></path>
+                <path d="M12,11.667 L12,10.5 C12,10.5 11.969,9 10,9 C8,9 8,10.5 8,10.5 L8,12.076 L7,12.076 L7,16 L13,16 L13,12.076 L12,12.076 L12,11.667 L12,11.667 Z M11,11.667 L11,12 L9,12 L9,10.5 C9,10.48 9.011,10 10,10 C10.808,10 10.975,10.33 11,10.537 L11,11.667 L11,11.667 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>box-1-details</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box-1-details" fill="#000000">
+            <g id="Box-1b" transform="translate(2.000000, 2.000000)">
+                <polyline id="Fill-1" points="8.185 13.107 8.877 13.83 9.877 12.872 9.186 12.149 8.185 13.107"></polyline>
+                <path d="M17.414,0 L2.586,0 L0,2.586 L0,20 L20,20 L20,2.586 L17.414,0 L17.414,0 Z M16.586,2 L18,3.414 L18,4 L12.093,4 L11.593,2 L16.586,2 L16.586,2 Z M8.093,9.19 C6.278,10.973 3.643,13.542 2,15.143 L2,12.492 C3.104,11.42 5.138,9.423 8.093,6.509 L8.093,9.19 L8.093,9.19 Z M2,5 L4.049,5 C3.107,5.918 2.447,6.56 2,6.994 L2,5 L2,5 Z M2,8.384 C2.383,8.019 3.258,7.169 5.35,5.128 L5.224,5 L8.093,5 L8.093,5.104 C5.861,7.306 3.505,9.624 2,11.097 L2,8.384 L2,8.384 Z M3.414,2 L8.593,2 L8.093,4 L2,4 L2,3.414 L3.414,2 L3.414,2 Z M4.664,18 L8.352,14.355 L7.648,13.644 L3.241,18 L2,18 L2,16.539 C2.127,16.415 2.261,16.284 2.411,16.138 C3.992,14.598 6.779,11.883 8.696,10 L12.093,10 L12.093,5 L18,5 L18,18 L4.664,18 L4.664,18 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

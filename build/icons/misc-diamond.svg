@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-diamond</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-diamond" fill="#000000">
+            <g id="Diamond" transform="translate(1.000000, 3.000000)">
+                <path d="M17.935,0 L4.065,0 L0.148,5.876 L11,18.537 L21.852,5.876 L17.935,0 L17.935,0 Z M3.86,7.133 L2.889,6 L5.219,6 L3.86,7.133 L3.86,7.133 Z M6,6 L9.049,6 L5.483,9.026 L4.511,7.892 L6.32,6.384 L6,6 L6,6 Z M7.677,11.586 L8.32,11.051 L7.68,10.282 L7.026,10.827 L6.133,9.785 L10.323,6.23 L10.128,6 L12.985,6 L12.985,5 L3.135,5 L5.135,2 L16.865,2 L18.865,5 L17,5 L17,6 L19.111,6 L11,15.463 L7.677,11.586 L7.677,11.586 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="8.68 9.449 9.32 10.218 10.32 9.384 9.68 8.616 8.68 9.449"></polyline>
+                <polygon id="Fill-4" points="14 5 16.021 5 16.021 6 14 6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

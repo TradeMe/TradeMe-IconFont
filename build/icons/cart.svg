@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>cart</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cart" fill="#000000">
+            <g id="Cart" transform="translate(1.000000, 2.000000)">
+                <path d="M15,19 C15,20.105 15.895,21 17,21 C18.105,21 19,20.105 19,19 C19,17.895 18.105,17 17,17 C15.895,17 15,17.895 15,19" id="Fill-2"></path>
+                <path d="M4,19 C4,20.105 4.895,21 6,21 C7.105,21 8,20.105 8,19 C8,17.895 7.105,17 6,17 C4.895,17 4,17.895 4,19" id="Fill-3"></path>
+                <path d="M18,14 C18.432,14 18.813,13.724 18.949,13.315 C20.068,9.935 21.768,4.814 21.924,4.383 C22.023,4.143 22.027,3.867 21.924,3.617 C21.769,3.244 21.404,3 21,3 L4.28,3 L3.962,1.727 C3.521,0.169 2.443,0 2,0 L0,0 L0,2 L1.934,2 C1.958,2.041 1.993,2.115 2.03,2.243 L4.817,13.388 L4.052,15.684 C3.949,15.988 4.001,16.324 4.188,16.585 C4.377,16.846 4.679,17 5,17 L19,17 L19,15 L6.388,15 L6.721,14 L18,14 L18,14 Z M19.606,5 C19.511,5.279 19.399,5.614 19.269,6 L18,6 L18,7 L18.935,7 C18.533,8.21 17.999,9.82 17.277,12 L6.53,12 L5.28,7 L14,7 L14,6 L5.03,6 L4.78,5 L19.606,5 L19.606,5 Z" id="Fill-4"></path>
+                <polygon id="Fill-5" points="15 6 17 6 17 7 15 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

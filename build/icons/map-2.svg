@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>map-2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-2" fill="#000000">
+            <g id="Map-2" transform="translate(0.000000, 1.000000)">
+                <polyline id="Fill-2" points="13.688 7.81 12.688 8.61 13.313 9.39 14.313 8.59 13.688 7.81"></polyline>
+                <path d="M16.056,2.236 L8.035,0.231 L0,1.666 L0,20.694 L8.078,19.275 L15.942,21.27 L23.875,20.188 L23.875,1.17 L16.056,2.236 L16.056,2.236 Z M9,5.45 L11.675,3.203 L14.148,3.821 L9,7.868 L9,5.45 L9,5.45 Z M9,4.145 L9,2.534 L10.478,2.903 L9,4.145 L9,4.145 Z M9,12.841 L12.313,10.19 L11.688,9.409 L9,11.559 L9,9.14 L15,4.422 L15,18.967 L9,17.445 L9,12.841 L9,12.841 Z M2,3.34 L7,2.447 L7,17.434 L2,18.312 L2,3.34 L2,3.34 Z M21.875,18.442 L17,19.107 L17,4.126 L21.875,3.461 L21.875,18.442 L21.875,18.442 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

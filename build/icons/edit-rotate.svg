@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-rotate</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-rotate" fill="#000000">
+            <path d="M21,11.738 C20.448,11.738 20,12.186 20,12.738 C20,17.149 16.411,20.738 12,20.738 C7.589,20.738 4,17.149 4,12.738 C4,8.327 7.589,4.738 12,4.738 L14.008,4.738 L11.605,7.011 L12.979,8.465 L17.468,4.217 L12.854,0 L11.504,1.476 L12.885,2.738 L12,2.738 C6.486,2.738 2,7.224 2,12.738 C2,18.252 6.486,22.738 12,22.738 C17.514,22.738 22,18.252 22,12.738 C22,12.186 21.552,11.738 21,11.738" id="Imported-Layers"></path>
+        </g>
+    </g>
+</svg>

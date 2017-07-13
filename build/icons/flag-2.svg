@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>flag-2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag-2" fill="#000000">
+            <g id="Flag-2---filled" transform="translate(2.000000, 0.000000)">
+                <path d="M14.358,8 L19.908,2 L2,2 L2,0.017 L0,0.017 L0,24 L2,24 L2,14 L19.908,14 L14.358,8 L14.358,8 Z M2.031,6.676 L4.707,4 L7.293,4 L2.031,9.262 L2.031,6.676 L2.031,6.676 Z M3.293,4 L2.031,5.262 L2.031,4 L3.293,4 L3.293,4 Z M2.031,10.676 L8.707,4 L11.293,4 L3.293,12 L2.031,12 L2.031,10.676 L2.031,10.676 Z M8.707,12 L10.353,10.354 L9.647,9.647 L7.293,12 L4.707,12 L12.707,4 L15.333,4 L11.633,8 L15.333,12 L8.707,12 L8.707,12 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

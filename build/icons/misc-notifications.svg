@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-notifications</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-notifications" fill="#000000">
+            <g id="Imported-Layers">
+                <path d="M18.001,0 C14.692,0 12.001,2.691 12.001,6 C12.001,9.309 14.692,12 18.001,12 C21.31,12 24.001,9.309 24.001,6 C24.001,2.691 21.31,0 18.001,0 L18.001,0 Z M18.001,10 C15.795,10 14.001,8.206 14.001,6 C14.001,3.794 15.795,2 18.001,2 C20.207,2 22.001,3.794 22.001,6 C22.001,8.206 20.207,10 18.001,10 L18.001,10 Z" id="Fill-1"></path>
+                <path d="M20.001,14 L19.986,21.982 L2,21.959 L2,19.708 L5.355,16.353 L4.647,15.647 L2,18.294 L2,15.708 L10.354,7.353 L9.647,6.647 L2,14.294 L2,11.561 L9.697,4 L11.001,4 L12.001,2 L2.001,2 C0.897,2 0,2.897 0,4 L0,21.959 C0,23.075 0.764,24 1.88,24 L20.001,24 C21.042,24 22,23.104 22,21.982 L22.001,14 L22.001,12 L20.001,13 L20.001,14 L20.001,14 Z M2.001,10.159 L2.001,7.852 L5.729,4 L8.27,4 L2.001,10.159 L2.001,10.159 Z M4.337,4 L2.001,6.414 L2.001,4 L4.337,4 L4.337,4 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="19.001 5 19.001 4 17.001 4 17.001 5 18.001 5 18.001 7 17.001 7 17.001 8 20.001 8 20.001 7 19.001 7 19.001 5"></polyline>
+                <polyline id="Fill-4" points="6.354 15.353 8.355 13.353 7.647 12.647 5.648 14.647 6.354 15.353"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

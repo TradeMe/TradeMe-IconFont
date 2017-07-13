@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>house-land-area-1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="house-land-area-1" fill="#000000">
+            <g id="Imported-Layers" transform="translate(1.000000, 2.000000)">
+                <path d="M0,0 L0,15 L9,15 L9,20 L22,20 L22,0 L0,0 L0,0 Z M17.042,2 L6.272,13 L3.414,13 L14.414,2 L17.042,2 L17.042,2 Z M2,13 L2,10.396 L10.412,2 L13,2 L2,13 L2,13 Z M2,8.983 L2,6.398 L6.411,2 L8.996,2 L2,8.983 L2,8.983 Z M2,2 L4.997,2 L2,4.987 L2,2 L2,2 Z M20,18 L11,18 L11,13.707 L15.353,9.353 L14.646,8.647 L10.293,13 L7.669,13 L18.427,2 L20,2 L20,18 L20,18 Z" id="Fill-1"></path>
+                <polyline id="Fill-2" points="15.229 8.063 15.936 8.77 17.354 7.354 16.646 6.647 15.229 8.063"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-clock</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-clock" fill="#000000">
+            <g id="Clock---circle" transform="translate(1.000000, 1.000000)">
+                <path d="M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0 L11,0 Z M12,19.941 L12,19 L10,19 L10,19.941 C5.835,19.478 2.522,16.165 2.059,12 L3,12 L3,10 L2.059,10 C2.522,5.836 5.835,2.522 10,2.059 L10,3 L12,3 L12,2.059 C16.165,2.522 19.478,5.836 19.941,10 L19,10 L19,12 L19.941,12 C19.478,16.165 16.165,19.478 12,19.941 L12,19.941 Z" id="Fill-1"></path>
+                <polyline id="Fill-2" points="12 5 10 5 10 12 15 12 15 10 12 10 12 5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

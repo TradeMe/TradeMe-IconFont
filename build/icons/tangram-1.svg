@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>tangram-1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tangram-1" fill="#000000">
+            <g id="Imported-Layers" transform="translate(0.000000, 2.000000)">
+                <polyline id="Fill-1" points="0 10 8.666 10 8.666 1.334 0 10"></polyline>
+                <polyline id="Fill-2" points="11 0 17.128 6.128 23.255 0 11 0"></polyline>
+                <polyline id="Fill-3" points="10 1 10 14 16 20 16 7.128 10 1"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>refine</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refine" fill="#000000">
+            <g id="Refine-1" transform="translate(2.000000, 2.000000)">
+                <path d="M10,6 C11.654,6 13,4.654 13,3 C13,1.346 11.654,0 10,0 C8.698,0 7.598,0.838 7.184,2 L0,2 L0,4 L7.184,4 C7.598,5.161 8.698,6 10,6 L10,6 Z M10,2 C10.551,2 11,2.449 11,3 C11,3.551 10.551,4 10,4 C9.449,4 9,3.551 9,3 C9,2.449 9.449,2 10,2 L10,2 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="15 2 15 1 14 1 14 5 15 5 15 4 20 4 20 2 15 2"></polyline>
+                <path d="M5,13 C6.654,13 8,11.654 8,10 C8,8.346 6.654,7 5,7 C3.698,7 2.598,7.839 2.184,9 L0,9 L0,11 L2.184,11 C2.598,12.162 3.698,13 5,13 L5,13 Z M5,9 C5.551,9 6,9.449 6,10 C6,10.551 5.551,11 5,11 C4.449,11 4,10.551 4,10 C4,9.449 4.449,9 5,9 L5,9 Z" id="Fill-4"></path>
+                <path d="M13,14 C11.698,14 10.598,14.838 10.184,16 L0,16 L0,18 L10.184,18 C10.598,19.162 11.698,20 13,20 C14.654,20 16,18.654 16,17 C16,15.346 14.654,14 13,14 L13,14 Z M13,18 C12.449,18 12,17.552 12,17 C12,16.448 12.449,16 13,16 C13.551,16 14,16.448 14,17 C14,17.552 13.551,18 13,18 L13,18 Z" id="Fill-5"></path>
+                <polyline id="Fill-6" points="10 8 9 8 9 12 10 12 10 11 20 11 20 9 10 9 10 8"></polyline>
+                <polyline id="Fill-7" points="18 15 17 15 17 19 18 19 18 18 20 18 20 16 18 16 18 15"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

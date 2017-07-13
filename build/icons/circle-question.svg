@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-question</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-question" fill="#000000">
+            <g id="Question---circle" transform="translate(1.000000, 1.000000)">
+                <path d="M11,2 C15.963,2 20,6.037 20,11 C20,15.963 15.963,20 11,20 C6.037,20 2,15.963 2,11 C2,6.037 6.037,2 11,2 M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0" id="Fill-2"></path>
+                <path d="M9.963,12.404 C9.963,10.787 11.844,10.499 11.844,9.493 C11.844,9.086 11.448,8.787 10.993,8.787 C10.418,8.787 9.855,9.302 9.855,9.302 L8.705,7.9 C8.705,7.9 9.603,6.905 11.209,6.905 C12.551,6.905 14,7.708 14,9.254 C14,11.218 11.952,11.506 11.952,12.572 L11.952,13.003 L9.963,13.003 L9.963,12.404 L9.963,12.404 Z M10.004,14.002 L12.002,14.002 L12.002,16 L10.01,16 L10.004,14.002 L10.004,14.002 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

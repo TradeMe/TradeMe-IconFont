@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-info</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-info" fill="#000000">
+            <g id="Info---circle" transform="translate(1.000000, 1.000000)">
+                <path d="M11,0 C4.925,0 0,4.925 0,11 C0,17.075 4.925,22 11,22 C17.075,22 22,17.075 22,11 C22,4.925 17.075,0 11,0 L11,0 Z M11,20 C6.037,20 2,15.963 2,11 C2,6.037 6.037,2 11,2 C15.963,2 20,6.037 20,11 C20,15.963 15.963,20 11,20 L11,20 Z" id="Fill-1"></path>
+                <polyline id="Fill-2" points="12 11 12 10 9 10 9 11 10 11 10 15 9 15 9 16 13 16 13 15 12 15 12 11"></polyline>
+                <polygon id="Fill-3" points="10 7 12 7 12 9 10 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

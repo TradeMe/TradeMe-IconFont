@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-watch</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="misc-watch" fill="#000000">
+            <g id="Views" transform="translate(1.000000, 2.000000)">
+                <path d="M11,20 C3.778,20 1.178,13.639 1.07,13.368 L0.902,12.943 L1.113,12.538 C1.252,12.271 4.592,6 11,6 C17.408,6 20.748,12.271 20.887,12.538 L21.098,12.943 L20.93,13.368 C20.822,13.639 18.222,20 11,20 L11,20 Z M3.127,13.056 C3.776,14.332 6.072,18 11,18 C15.892,18 18.217,14.318 18.871,13.053 C18.072,11.781 15.333,8 11,8 C6.664,8 3.923,11.788 3.127,13.056 L3.127,13.056 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="3.293 7.707 0.293 4.707 1.707 3.293 4.707 6.293 3.293 7.707"></polyline>
+                <polyline id="Fill-4" points="18.707 7.707 17.293 6.293 20.293 3.293 21.707 4.707 18.707 7.707"></polyline>
+                <path d="M11,9 C13.516,9 15.49,11.324 14.892,13.942 C14.562,15.388 13.388,16.562 11.943,16.892 C9.324,17.49 7,15.516 7,13 C7,11.986 7.378,11.06 8,10.354 L9.693,11.847 C10.201,12.295 11,11.935 11,11.257 L11,9" id="Fill-5"></path>
+                <polyline id="Fill-6" points="7.03 5.243 6.03 1.243 7.97 0.757 8.97 4.757 7.03 5.243"></polyline>
+                <polyline id="Fill-7" points="14.97 5.243 13.03 4.757 14.03 0.757 15.97 1.243 14.97 5.243"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
