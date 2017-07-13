@@ -6,14 +6,16 @@ node_js:
 cache:
   directories:
   - node_modules
+addons:
+  apt:
+    packages:
+      - fontforge
 before_install:
   # Download and unzip Sketch.
   - wget http://www.sketchapp.com/download/sketch.zip
   - unzip sketch.zip
   # Install SketchTool
   - sudo Sketch.app/Contents/Resources/sketchtool/install.sh
-  # Install FontForge
-  - sudo apt-get fontforge
 script:
   - grunt
 deploy:
@@ -24,6 +26,7 @@ deploy:
     - dist/tmicons-production.zip
     - dist/tmicons-sketch.zip
   skip_cleanup: true
+  overwrite: true
   on:
     repo: jacoblapworth/TradeMe.TradeMe.IconFont
     tags: true
