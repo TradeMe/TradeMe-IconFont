@@ -9,6 +9,8 @@ addons:
   apt:
     packages:
       - fontforge
+before_script:
+  - node_modules/sketchtool/sketchtool/install.sh
 script:
   - grunt
 deploy:
