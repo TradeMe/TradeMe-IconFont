@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>map-1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-1" fill="#000000">
+            <g id="Map-1" transform="translate(0.000000, 1.000000)">
+                <path d="M14.117,2.711 L8.096,0.704 L0.042,2.831 L0.042,21.895 L8.141,19.79 L14.005,21.783 L23,19.804 L23,0.756 L14.117,2.711 L14.117,2.711 Z M9,5.934 L11.777,4.083 L11.74,4.027 L13.651,4.664 L9,7.805 L9,5.934 L9,5.934 Z M9,4.732 L9,3.114 L10.619,3.653 L9,4.732 L9,4.732 Z M9,12.304 L11.279,10.766 L10.719,9.937 L9,11.097 L9,9.013 L14,5.636 L14,19.67 L9,17.97 L9,12.304 L9,12.304 Z M2.042,4.371 L7,3.062 L7,18.02 L2.042,19.309 L2.042,4.371 L2.042,4.371 Z M21,18.196 L15.771,19.347 L15.771,4.395 L21,3.244 L21,18.196 L21,18.196 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="12.72 8.585 11.72 9.261 12.28 10.09 13.28 9.415 12.72 8.585"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

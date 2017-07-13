@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-2-backward</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-2-backward" fill="#000000">
+            <g id="Play-Back---circle---filled" transform="translate(1.000000, 0.000000)">
+                <path d="M11.008,2.985 C15.97,2.985 20.008,7.022 20.008,11.985 C20.008,16.947 15.97,20.985 11.008,20.985 C6.045,20.985 2.008,16.947 2.008,11.985 C2.008,7.022 6.045,2.985 11.008,2.985 M11.008,0.985 C4.932,0.985 0.008,5.91 0.008,11.985 C0.008,18.06 4.932,22.985 11.008,22.985 C17.083,22.985 22.008,18.06 22.008,11.985 C22.008,5.91 17.083,0.985 11.008,0.985" id="Fill-2"></path>
+                <polyline id="Fill-3" points="5.728 11.992 10.007 8.935 10.007 15.049 5.728 11.992"></polyline>
+                <path d="M9.007,10.879 L9.007,13.106 L7.448,11.992 L9.007,10.879 M11.007,6.992 L4.008,11.992 L11.007,16.992 L11.007,6.992" id="Fill-4"></path>
+                <polyline id="Fill-5" points="10.728 11.993 15.007 8.936 15.007 15.049 10.728 11.993"></polyline>
+                <path d="M14.008,10.879 L14.008,13.106 L12.449,11.992 L14.008,10.879 M16.008,6.992 L9.008,11.992 L16.008,16.992 L16.008,6.992" id="Fill-6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

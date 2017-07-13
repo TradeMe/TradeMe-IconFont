@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>graph</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graph" fill="#000000">
+            <g id="Graph-1" transform="translate(4.000000, 1.000000)">
+                <polygon id="Fill-1" points="0.06 9 4 9 4 21 0.06 21"></polygon>
+                <polygon id="Fill-2" points="6 11 10 11 10 21 6 21"></polygon>
+                <polygon id="Fill-3" points="12 7 16 7 16 21 12 21"></polygon>
+                <path d="M2,6.5 C2.479,6.5 2.902,6.27 3.177,5.919 L6.503,7.028 C6.518,7.842 7.182,8.5 8,8.5 C8.827,8.5 9.5,7.827 9.5,7 C9.5,6.817 9.462,6.644 9.402,6.482 L13.239,3.285 C13.463,3.419 13.721,3.5 14,3.5 C14.827,3.5 15.5,2.827 15.5,2 C15.5,1.173 14.827,0.5 14,0.5 C13.173,0.5 12.5,1.173 12.5,2 C12.5,2.183 12.538,2.356 12.598,2.518 L8.761,5.715 C8.537,5.582 8.279,5.5 8,5.5 C7.521,5.5 7.098,5.73 6.824,6.081 L3.497,4.972 C3.482,4.158 2.818,3.5 2,3.5 C1.173,3.5 0.5,4.173 0.5,5 C0.5,5.827 1.173,6.5 2,6.5" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

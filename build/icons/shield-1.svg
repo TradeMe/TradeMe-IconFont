@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>shield-1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shield-1" fill="#000000">
+            <g id="Shield-1" transform="translate(3.000000, 1.000000)">
+                <path d="M9,1.992 L6.76,1.712 L6.68,1.616 L6.59,1.691 L0,0.867 L0,13 C0,15.578 1.328,17.782 3.628,18.929 L9,21.077 L14.447,18.894 C16.672,17.782 18,15.578 18,13 L18,0.867 L9,1.992 L9,1.992 Z M2,6.818 L5.845,3.614 L8.324,3.923 L2,9.391 L2,6.818 L2,6.818 Z M2,13 L2,10.713 L8.5,5.094 L8.5,7.771 L2.023,13.371 C2.014,13.248 2,13.127 2,13 L2,13 Z M8.5,9.094 L8.5,11.771 L3.295,16.272 C2.804,15.784 2.446,15.188 2.233,14.511 L8.5,9.094 L8.5,9.094 Z M4.486,3.444 L2,5.515 L2,3.133 L4.486,3.444 L4.486,3.444 Z M8.5,18.723 L7.21,18.208 L8.5,17.093 L8.5,18.723 L8.5,18.723 Z M16,13 C16,14.831 15.108,16.328 13.628,17.071 L9.5,18.723 L9.5,15 L8.5,15 L8.5,15.772 L6.164,17.791 L4.447,17.106 C4.324,17.044 4.212,16.97 4.097,16.9 L8.5,13.093 L8.5,14 L9.5,14 L9.5,3.945 L16,3.133 L16,13 L16,13 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

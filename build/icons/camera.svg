@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>camera</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="camera" fill="#000000">
+            <g id="Camera" transform="translate(1.000000, 2.000000)">
+                <path d="M16,4.056 L16,0 L6,0 L6,4.056 L5,4.056 L5,3 L2.121,3 L2.121,4.056 L0,4.056 L0,20 L22,20 L22,4.056 L16,4.056 L16,4.056 Z M8,2 L14,2 L14,4 L8,4 L8,2 Z M20,18 L2,18 L2,6.056 L10.226,6.056 C7.283,6.437 5,8.954 5,12 C5,15.309 7.691,18 11,18 C14.309,18 17,15.309 17,12 C17,8.954 14.717,6.437 11.774,6.056 L20,6.056 L20,18 L20,18 Z M11,8 C13.206,8 15,9.794 15,12 C15,14.206 13.206,16 11,16 C8.794,16 7,14.206 7,12 C7,9.794 8.794,8 11,8 L11,8 Z" id="Fill-2"></path>
+                <path d="M11,15.5 C12.93,15.5 14.5,13.93 14.5,12 C14.5,10.07 12.93,8.5 11,8.5 C9.07,8.5 7.5,10.07 7.5,12 C7.5,13.93 9.07,15.5 11,15.5 L11,15.5 Z M11,9.5 C12.379,9.5 13.5,10.621 13.5,12 C13.5,13.379 12.379,14.5 11,14.5 C9.621,14.5 8.5,13.379 8.5,12 C8.5,10.621 9.621,9.5 11,9.5 L11,9.5 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

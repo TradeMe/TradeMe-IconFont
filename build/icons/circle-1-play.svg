@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>circle-1-play</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="circle-1-play" fill="#000000">
+            <g id="Play---circle" transform="translate(1.000000, 0.000000)">
+                <path d="M11,2.992 C15.963,2.992 20,7.03 20,11.992 C20,16.955 15.963,20.992 11,20.992 C6.037,20.992 2,16.955 2,11.992 C2,7.03 6.037,2.992 11,2.992 M11,0.992 C4.925,0.992 0,5.917 0,11.992 C0,18.068 4.925,22.992 11,22.992 C17.075,22.992 22,18.068 22,11.992 C22,5.917 17.075,0.992 11,0.992" id="Fill-2"></path>
+                <path d="M10,10.396 L12.395,11.992 L10,13.589 L10,10.396 M8,6.659 L8,17.326 L16,11.992 L8,6.659" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

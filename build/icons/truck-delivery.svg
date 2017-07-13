@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>truck-delivery</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="truck-delivery" fill="#000000">
+            <g id="Truck-Delivery-1" transform="translate(0.000000, 7.000000)">
+                <path d="M24,6.586 L20.414,3 L19,3 L19,0 L6,0 L6,12 L8.798,12 C9.122,12.799 9.903,13.364 10.818,13.364 C11.733,13.364 12.514,12.799 12.838,12 L17.162,12 C17.486,12.799 18.267,13.364 19.182,13.364 C20.097,13.364 20.878,12.799 21.202,12 L24,12 L24,6.586 L24,6.586 Z M10.818,12.364 C10.167,12.364 9.636,11.833 9.636,11.182 C9.636,10.53 10.167,10 10.818,10 C11.47,10 12,10.53 12,11.182 C12,11.833 11.47,12.364 10.818,12.364 L10.818,12.364 Z M19.182,12.364 C18.53,12.364 18,11.833 18,11.182 C18,10.53 18.53,10 19.182,10 C19.833,10 20.364,10.53 20.364,11.182 C20.364,11.833 19.833,12.364 19.182,12.364 L19.182,12.364 Z M22,10 L21.012,10 C20.623,9.399 19.95,9 19.182,9 C18.413,9 17.741,9.399 17.352,10 L12.648,10 C12.259,9.399 11.587,9 10.818,9 C10.05,9 9.377,9.399 8.988,10 L8,10 L8,2 L17,2 L17,8 L19,8 L19,5 L19.586,5 L20,5.414 L20,7 L21.586,7 L22,7.414 L22,10 L22,10 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="0 0 5 0 5 1 0 1"></polygon>
+                <polygon id="Fill-4" points="1.019 2 5 2 5 3 1.019 3"></polygon>
+                <polygon id="Fill-5" points="2.072 4 5 4 5 5 2.072 5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

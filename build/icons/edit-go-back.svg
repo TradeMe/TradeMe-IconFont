@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-go-back</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-go-back" fill="#000000">
+            <g id="Go-Back" transform="translate(2.000000, 2.000000)">
+                <polyline id="Fill-2" points="6 11 0 11 0 5 2 5 2 9 6 9 6 11"></polyline>
+                <polyline id="Fill-3" points="11.707 18.707 10.293 17.293 12.293 15.293 13.707 16.707 11.707 18.707"></polyline>
+                <path d="M14.797,15.797 L13.383,14.383 L16.141,11.625 C18.434,9.56 18.617,6.075 16.588,3.821 C14.558,1.566 11.075,1.383 8.821,3.412 L1.743,10.732 L0.306,9.342 L7.433,1.973 C10.557,-0.841 15.309,-0.591 18.075,2.483 C20.841,5.557 20.591,10.309 17.517,13.075 L14.797,15.797" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

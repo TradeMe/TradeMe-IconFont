@@ -1,11 +1,24 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
+    sketch_export: {
+      icons: {
+        options: {
+          type: 'slices',
+          formats: [
+            'svg'
+          ],
+          overwrite: true
+        },
+        src: 'src/sketch/TradeMe.TradeMe.Icons.sketch',
+        dest: 'build/icons'
+      }
+    },
     webfont: {
       // iconfont build and styles for production
       production: {
-        src: 'src/icons/*.svg',
-        dest: 'iconfont/production',
+        src: 'build/icons/*.svg',
+        dest: 'build/production',
         options: {
           template: 'src/templates/icons.scss',
           templateOptions: {
@@ -14,7 +27,7 @@ module.exports = function(grunt) {
           },
           customOutputs: [{
             template: 'src/templates/codepoints',
-            dest: 'iconfont'
+            dest: 'build'
           }],
           stylesheets: ['css', 'scss'],
           hashes: true,
@@ -27,13 +40,13 @@ module.exports = function(grunt) {
           codepointsFile: 'src/codepoints',
           htmlDemo: true,
           htmlDemoTemplate: 'src/templates/tmicons-demo.html',
-          destHtml: 'iconfont'
+          destHtml: 'build'
         }
       },
       // iconfont for Sketch App toolkit
       sketchtoolkit: {
-        src: 'src/icons/*.svg',
-        dest: 'iconfont/sketch-toolkit',
+        src: 'build/icons/*.svg',
+        dest: 'build/sketch-toolkit',
         options: {
           font: 'tmicons',
           types: 'ttf',
@@ -53,7 +66,7 @@ module.exports = function(grunt) {
         },
         files: [{
           expand: true,
-          cwd: 'iconfont/production/',
+          cwd: 'build/production/',
           src: ['**/*'],
           dest: ''
         }]
@@ -64,7 +77,7 @@ module.exports = function(grunt) {
         },
         files: [{
           expand: true,
-          cwd: 'iconfont/sketch-toolkit/',
+          cwd: 'build/sketch-toolkit/',
           src: ['**/*'],
           dest: ''
         }]
@@ -72,10 +85,11 @@ module.exports = function(grunt) {
     }
   });
 
+  grunt.loadNpmTasks('grunt-sketch');
   grunt.loadNpmTasks('grunt-webfont');
   grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['webfont', 'compress']);
+  grunt.registerTask('default', ['sketch_export', 'webfont', 'compress']);
 
 };

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>speech-bubble-1-info</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="speech-bubble-1-info" fill="#000000">
+            <g id="Info-Bubble-1" transform="translate(1.000000, 3.000000)">
+                <polygon id="Fill-2" points="5 5.021 17 5.021 17 7 5 7"></polygon>
+                <polygon id="Fill-3" points="5 9.046 17 9.046 17 11 5 11"></polygon>
+                <path d="M11,18.411 C10.42,18.411 9.884,18.122 9.566,17.637 L8.459,15.944 L5.424,15.944 C4.195,15.944 3.037,15.544 2.073,14.786 C0.756,13.75 0,12.195 0,10.52 L0,5.424 C0,2.433 2.434,0 5.424,0 L16.576,0 C19.566,0 22,2.433 22,5.424 L22,10.52 C22,13.511 19.566,15.944 16.576,15.944 L13.541,15.944 L12.434,17.636 C12.116,18.122 11.58,18.411 11,18.411 L11,18.411 Z M5.424,2 C3.536,2 2,3.536 2,5.424 L2,10.52 C2,11.578 2.477,12.56 3.31,13.214 C3.917,13.692 4.648,13.944 5.424,13.944 L9.541,13.944 L11,16.174 L12.459,13.944 L16.576,13.944 C18.464,13.944 20,12.408 20,10.52 L20,5.424 C20,3.536 18.464,2 16.576,2 L5.424,2 L5.424,2 Z" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

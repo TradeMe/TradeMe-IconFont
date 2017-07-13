@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>music-note-2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="music-note-2" fill="#000000">
+            <path d="M21,2 L7,2 L7,15.35 C6.544,15.132 6.039,15 5.5,15 C3.567,15 2,16.567 2,18.5 C2,20.433 3.567,22 5.5,22 C7.433,22 9,20.433 9,18.5 C9,18.329 8.973,18.165 8.95,18 L9,18 L9,8 L19,8 L19,14.35 C18.544,14.132 18.039,14 17.5,14 C15.567,14 14,15.567 14,17.5 C14,19.433 15.567,21 17.5,21 C19.433,21 21,19.433 21,17.5 C21,17.329 20.973,17.165 20.95,17 L21,17 L21,2 L21,2 Z M9,4 L19,4 L19,6.002 L9,6.002 L9,4 Z" id="Imported-Layers"></path>
+        </g>
+    </g>
+</svg>

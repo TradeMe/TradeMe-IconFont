@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit" fill="#000000">
+            <g id="Edit" transform="translate(1.000000, 1.000000)">
+                <path d="M6,15 L10,14 L21,3 L18.219,0.188 L7,11 L6,15 L6,15 Z M8.576,10.869 L17.022,2.729 L18.439,4.146 L10.146,12.439 L8.576,10.869 L8.576,10.869 Z M19.59,2.996 L19.146,3.439 L17.742,2.035 L18.202,1.593 L19.59,2.996 L19.59,2.996 Z M7.883,11.59 L9.41,13.117 L7.374,13.626 L7.883,11.59 L7.883,11.59 Z" id="Fill-2"></path>
+                <polyline id="Fill-3" points="18 19 2 19 2 3 13 3 15 1 0 1 0 21 20 21 20 6 18 8 18 19"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

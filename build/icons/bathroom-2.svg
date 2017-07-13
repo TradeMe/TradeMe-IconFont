@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>bathroom-2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bathroom-2" fill="#000000">
+            <g id="Bathroom-2" transform="translate(2.000000, 2.000000)">
+                <polygon id="Fill-2" points="12.929 13.01 14.929 13.01 14.929 14.01 12.929 14.01"></polygon>
+                <path d="M15.031,10.001 L15.031,7.984 L14,7.984 L14,10.001 L13,10.001 L13,9.016 L12.01,9.016 L12.01,10.001 L0.062,10.003 L0.062,16.292 L2.452,20.034 L17.538,20.034 L20,16.3 L20,10 L15.031,10.001 L15.031,10.001 Z M16.462,18.034 L3.548,18.034 L2.062,15.708 L2.062,14.01 L12.01,14.01 L12.01,13.01 L2.062,13.01 L2.062,12.003 L18,12 L18,13.01 L16.014,13.01 L16.014,14.01 L18,14.01 L18,15.7 L16.462,18.034 L16.462,18.034 Z" id="Fill-3"></path>
+                <polyline id="Fill-4" points="16.014 2 13.984 2 13.984 1.47 14.433 1 16.558 1 16.969 1.461 16.969 9.992 17.969 9.992 17.969 1.079 17.005 0 14.005 0 12.984 1.07 12.984 2 11 2 11 3.047 16.014 3.047 16.014 2"></polyline>
+                <polygon id="Fill-5" points="12.984 5.029 13.984 5.029 13.984 7.02 12.984 7.02"></polygon>
+                <polygon id="Fill-6" points="11 5.98 12.01 5.98 12.01 7.984 11 7.984"></polygon>
+                <polygon id="Fill-7" points="15.031 4.033 16.014 4.033 16.014 6.008 15.031 6.008"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

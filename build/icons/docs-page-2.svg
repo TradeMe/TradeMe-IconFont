@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>docs-page-2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="docs-page-2" fill="#000000">
+            <g id="Imported-Layers" transform="translate(4.000000, 2.000000)">
+                <polygon id="Fill-1" points="4 14 12.007 14 12.007 15 4 15"></polygon>
+                <polygon id="Fill-2" points="4 10 12 10 12 11 4 11"></polygon>
+                <polygon id="Fill-3" points="4 8 12 8 12 9 4 9"></polygon>
+                <polygon id="Fill-4" points="4 12 10 12 10 13 4 13"></polygon>
+                <polygon id="Fill-5" points="4 6 9.903 6 9.903 7 4 7"></polygon>
+                <path d="M12.414,0 L0,0 L0,20 L16,20 L16,3.586 L12.414,0 L12.414,0 Z M11.997,2.411 L13.589,4.003 L11.997,4.003 L11.997,2.411 L11.997,2.411 Z M2,18 L2,2 L11,2 L11,5 L14,5 L14,18 L2,18 L2,18 Z" id="Fill-6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

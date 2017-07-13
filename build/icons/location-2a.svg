@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>location-2a</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-2a" fill="#000000">
+            <g id="Location-2" transform="translate(3.000000, 1.000000)">
+                <path d="M9.008,0 C4.59,0 1.008,3.582 1.008,8 C1.008,8 0.425,14.417 9.008,22 C9.008,22 17.008,14.75 17.008,8 C17.008,3.582 13.427,0 9.008,0 L9.008,0 Z M8.967,19.228 C2.774,13.123 2.989,8.368 3,8.181 L3.008,8.091 L3.008,8 C3.008,4.692 5.7,2 9.008,2 C12.317,2 15.008,4.692 15.008,8 C15.008,11.966 11.376,16.671 8.967,19.228 L8.967,19.228 Z" id="Fill-2"></path>
+                <path d="M9.009,3.5 C6.527,3.5 4.509,5.519 4.509,8 C4.509,10.481 6.527,12.5 9.009,12.5 C11.49,12.5 13.509,10.481 13.509,8 C13.509,5.519 11.49,3.5 9.009,3.5 L9.009,3.5 Z M9.009,11.5 C7.079,11.5 5.509,9.93 5.509,8 C5.509,6.07 7.079,4.5 9.009,4.5 C10.939,4.5 12.509,6.07 12.509,8 C12.509,9.93 10.939,11.5 9.009,11.5 L9.009,11.5 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

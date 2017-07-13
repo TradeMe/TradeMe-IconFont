@@ -92,6 +92,10 @@ async@^2.0.0:
   dependencies:
     lodash "^4.14.0"
 
+async@~0.8.0:
+  version "0.8.0"
+  resolved "https://registry.npmjs.org/async/-/async-0.8.0.tgz#ee65ec77298c2ff1456bc4418a052d0f06435112"
+
 async@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/async/-/async-1.0.0.tgz#f8fc04ca3a13784ade9e1641af98578cfbd647a9"
@@ -519,6 +523,14 @@ grunt-legacy-util@~1.0.0:
     lodash "~4.3.0"
     underscore.string "~3.2.3"
     which "~1.2.1"
+
+grunt-sketch@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/grunt-sketch/-/grunt-sketch-1.0.5.tgz#73ab5290a1c5c0beeda42d1092b1610abdbd38e5"
+  dependencies:
+    async "~0.8.0"
+    underscore "~1.6.0"
+    which "~1.0.5"
 
 "grunt-webfont@https://github.com/jacoblapworth/grunt-webfont.git":
   version "1.7.1"
@@ -1142,10 +1154,6 @@ signal-exit@^3.0.0:
   version "3.0.2"
   resolved "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
-sketchtool@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.npmjs.org/sketchtool/-/sketchtool-1.4.0.tgz#270fe244a348de62a1695a5b543032037a696ac2"
-
 sntp@1.x.x:
   version "1.0.9"
   resolved "https://registry.npmjs.org/sntp/-/sntp-1.0.9.tgz#6541184cc90aeea6c6e7b35e2659082443c66198"
@@ -1376,6 +1384,10 @@ underscore.string@~3.2.3:
   version "3.2.3"
   resolved "https://registry.npmjs.org/underscore.string/-/underscore.string-3.2.3.tgz#806992633665d5e5fcb4db1fb3a862eb68e9e6da"
 
+underscore@~1.6.0:
+  version "1.6.0"
+  resolved "https://registry.npmjs.org/underscore/-/underscore-1.6.0.tgz#8b38b10cacdef63337b8b24e4ff86d45aea529a8"
+
 underscore@~1.7.0:
   version "1.7.0"
   resolved "https://registry.npmjs.org/underscore/-/underscore-1.7.0.tgz#6bbaf0877500d36be34ecaa584e0db9fef035209"
@@ -1414,6 +1426,10 @@ which@1, which@~1.2.1:
   resolved "https://registry.npmjs.org/which/-/which-1.2.14.tgz#9a87c4378f03e827cecaf1acdf56c736c01c14e5"
   dependencies:
     isexe "^2.0.0"
+
+which@~1.0.5:
+  version "1.0.9"
+  resolved "https://registry.npmjs.org/which/-/which-1.0.9.tgz#460c1da0f810103d0321a9b633af9e575e64486f"
 
 wide-align@^1.1.0:
   version "1.1.2"

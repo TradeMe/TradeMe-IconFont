@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-bullet-list</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit-bullet-list" fill="#000000">
+            <g id="List" transform="translate(2.000000, 2.000000)">
+                <path d="M0,0 L20,0 L20,20 L0,20 L0,0 Z M2,18 L18,18 L18,2 L2,2 L2,18 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="4 5 6 5 6 7 4 7"></polygon>
+                <polygon id="Fill-4" points="4 9 6 9 6 11 4 11"></polygon>
+                <polygon id="Fill-5" points="4 13 6 13 6 15 4 15"></polygon>
+                <polygon id="Fill-6" points="8 5 16 5 16 7 8 7"></polygon>
+                <polygon id="Fill-7" points="8 9 16 9 16 11 8 11"></polygon>
+                <polygon id="Fill-8" points="8 13 16 13 16 15 8 15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
