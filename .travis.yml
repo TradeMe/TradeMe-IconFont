@@ -1,21 +1,28 @@
+os: osx
+sudo: required
 language: node_js
 node_js:
   - "6"
+
 cache:
   directories:
   - node_modules
-addons:
-  apt:
-    packages:
-      - fontforge
+
+#Environment setup
 before_install:
   # Download and unzip Sketch.
   - wget http://www.sketchapp.com/download/sketch.zip
   - unzip sketch.zip
   # Install SketchTool
   - Sketch.app/Contents/Resources/sketchtool/install.sh
+  # Install FontForge
+  - brew install ttfautohint fontforge --with-python
+
+# Build
 script:
   - grunt
+
+# Deploy
 deploy:
   provider: releases
   api_key:
