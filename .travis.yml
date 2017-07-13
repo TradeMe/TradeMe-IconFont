@@ -11,3 +11,10 @@ addons:
       - fontforge
 script:
   - grunt
+deploy:
+  provider: releases
+  api_key:
+    secure: hIno1w4NhUqpkvKlmuwVosUmn8JS19/ScHe3a04gH751j956Odw+TT/1PEKuC/XRP4HL6Uf+PDapYEoZd/YuRFtA6JmNbgV51IJmqJ8rcm2upecxglpePU/+yyokXHeitHckVahwHw0sc+/UITEsEpmudgCe8qQZjL3ZhN3ddG++MLMAeUm3wJmc1yn8ncfGWDsdJTCz1ZMustJJE/kgMa2npPffYMAPU8R67V9iQNEVp6Z4Dh/NOlYeWawxbFmNhIxMgQyeGvxPW8RlO7vJZ+JuXUqop34lAMXfKdxmdr9HPZR2+j4lcsLXWLlau7WC+EwsFH3iXbSr9Z8ne3wmRBysA7D/7sfvI0FRKXb8OqFGkyZ0KCpl1KFGtnI7gj4NKrRUiB7NQzvusJiII8YJZII2gq3HdQ2wVpWpwkGFf7EIVxHncDY6/MSMvCs4ybwOTClzc8plHYrhVJuJd4pM+9+H1KVQcvDzNBu5BybUFDlKTZypOONk9sie7fVg2cDz1aCgOHpYCbHte4hbscsKrOzUNp6GPM8Ce778E8vaXDbTk/W09lZ29xvGC07Mrxbb81/1oSNy7jX7sgCRNfhAVJTVmms7Tn8QG4x8FLmV5bNuvrFUWWJcNcsH5GFg2ktws6IUoMooHbdzgjPoSUOEyppw4j5U3uhR5xv4L+dGOMc=
+  file: iconfont/production/
+  on:
+    repo: jacoblapworth/TradeMe.TradeMe.IconFont
