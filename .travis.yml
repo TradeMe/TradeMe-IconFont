@@ -9,8 +9,12 @@ addons:
   apt:
     packages:
       - fontforge
-before_script:
-  - node_modules/sketchtool/sketchtool/install.sh
+before_install:
+  # Download and unzip Sketch.
+  - "wget https://www.sketchapp.com/download/sketch.zip"
+  - "unzip sketch.zip"
+  # Install SketchTool
+  - "Sketch.app/Contents/Resources/sketchtool/install.sh"
 script:
   - grunt
 deploy:
