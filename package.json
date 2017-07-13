@@ -6,7 +6,8 @@
   "dependencies": {
     "grunt-contrib-compress": "^1.4.3",
     "grunt-sketch": "^1.0.5",
-    "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git"
+    "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git",
+    "sketchtool": "^1.4.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1"

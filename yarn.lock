@@ -1154,6 +1154,10 @@ signal-exit@^3.0.0:
   version "3.0.2"
   resolved "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
+sketchtool@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.npmjs.org/sketchtool/-/sketchtool-1.4.0.tgz#270fe244a348de62a1695a5b543032037a696ac2"
+
 sntp@1.x.x:
   version "1.0.9"
   resolved "https://registry.npmjs.org/sntp/-/sntp-1.0.9.tgz#6541184cc90aeea6c6e7b35e2659082443c66198"
