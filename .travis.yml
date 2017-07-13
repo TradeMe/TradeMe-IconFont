@@ -9,3 +9,5 @@ addons:
   apt:
     packages:
       - fontforge
+script:
+  - grunt
