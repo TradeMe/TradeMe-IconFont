@@ -8,10 +8,10 @@ cache:
   directories:
   - node_modules
 
-#Environment setup
+# Environment setup
 before_install:
   # Download and unzip Sketch.
-  - wget http://www.sketchapp.com/download/sketch.zip
+  - wget https://www.sketchapp.com/download/sketch.zip
   - unzip sketch.zip
   # Install SketchTool
   - Sketch.app/Contents/Resources/sketchtool/install.sh
