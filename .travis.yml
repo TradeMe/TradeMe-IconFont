@@ -16,7 +16,7 @@ before_install:
   - wget http://www.sketchapp.com/download/sketch.zip
   - unzip sketch.zip
   # Install SketchTool
-  - Sketch.app/Contents/Resources/sketchtool/install.sh
+  - sudo Sketch.app/Contents/Resources/sketchtool/install.sh
 script:
   - grunt
 deploy:
