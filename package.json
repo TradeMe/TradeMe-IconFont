@@ -1,19 +1,16 @@
 {
-  "name": "webfont",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "TradeMe.TradeMe.IconFont",
+  "version": "1.1.0",
+  "description": "SVG to iconfont converter for Trade Classic icons",
+  "main": "gruntfile.js",
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-webfont": "^1.6.0"
-  },
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-webfont": "^1.6.0"
+    "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jacob Lapworth <jacob.lapworth@trademe.co.nz>",
+  "license": "ISC",
+  "repository": "https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont.git"
 }

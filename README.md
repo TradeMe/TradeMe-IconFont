@@ -1,5 +1,6 @@
 # TradeMe.TradeMe.IconFont
 [![Build Status](https://travis-ci.com/jacoblapworth/TradeMe.TradeMe.IconFont.svg?token=17pppDNTC2zxqDVwZYTf&branch=master)](https://travis-ci.com/jacoblapworth/TradeMe.TradeMe.IconFont)
+
 Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
 
 ### 1.1.0
