@@ -3,14 +3,45 @@
 
 Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
 
-### 1.1.0
-* New offline workflow not using Fontastic
+### v1.2.1
+* Direct build from Sketch file
+
+### v1.1.2
+* Continuous integration and release with Travis CI
+
+### v1.1.0
+* Local build workflow for iconfont
 * Updated with full 2015 icon set
 
-### v11
-* Archived font made with Fontastic
+### v11-deprecated
+* Font made with [Fontastic](http://fontastic.me/)
 
 Full release notes with new icons and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
+
+## Creating icon release `design`
+Clone repo, and work in `develop` branch
+```sh
+git clone https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont.git
+cd TradeMe.TradeMe.IconFont
+git checkout develop
+```
+Edit Sketch file in [`src/sketch/TradeMe.TradeMe.Icons.sketch`](src/sketch/TradeMe.TradeMe.Icons.sketch)
+
+Commit changes, and create a pull request into `master` tagging with new version using [Semver](http://semver.io/).
+
+```sh
+git add src/sketch/TradeMe.TradeMe.Icons.sketch
+git commit -m "your changes to iconset"
+git
+```
+
+This tag will trigger Travis CI to deploy a new release.
+
+## Deploy for prod `develop`
+Download [latest release](https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont/releases/latest)
+of `tmicons-production.zip`
+
+Replace files in TradeMe.TradeMe
 
 ## Installation
 
