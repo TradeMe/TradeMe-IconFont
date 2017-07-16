@@ -18,30 +18,37 @@ Workflow for creating the iconfont for Trade Me 2015 style icons used in **Class
 
 Full release notes with new icons and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
 
-## Creating icon release `design`
-Clone repo, and work in `develop` branch
+## Creating icon release `designer`
+Clone repo
 ```sh
 git clone https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont.git
 cd TradeMe.TradeMe.IconFont
-git checkout develop
 ```
 Edit Sketch file in [`src/sketch/TradeMe.TradeMe.Icons.sketch`](src/sketch/TradeMe.TradeMe.Icons.sketch)
 
-Commit changes, and create a pull request into `master` tagging with new version using [Semver](http://semver.io/).
+Commit changes, and tag with new version following [Semver](http://semver.io/).
 
 ```sh
 git add src/sketch/TradeMe.TradeMe.Icons.sketch
 git commit -m "your changes to iconset"
-git
+git tag v1.2.x
+git push origin --tags
 ```
 
 This tag will trigger Travis CI to deploy a new release.
 
-## Deploy for prod `develop`
+Create a pull request into `master`
+
+## Deploy for prod `developer`
 Download [latest release](https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont/releases/latest)
 of `tmicons-production.zip`
 
 Replace files in TradeMe.TradeMe
+
+`_tmicons.scss` to: `/TradeMe.Trademe.Web/sass/_icons.scss`
+
+`tmicons-xx.ttf`, `tmicons-xx.woff`, `tmicons-xx.eot` to:
+`/TradeMe.Trademe.Web/styles/`
 
 ## Installation
 
