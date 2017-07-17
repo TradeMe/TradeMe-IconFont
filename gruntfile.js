@@ -43,8 +43,32 @@ module.exports = function(grunt) {
           destHtml: 'build'
         }
       },
+      // iconfont build and styles for production
+      deploy: {
+        src: 'build/icons/*.svg',
+        dest: 'docs/styles',
+        options: {
+          template: 'src/templates/icons.scss',
+          templateOptions: {
+            baseClass: 'tmicon',
+            classPrefix: 'tmicon-'
+          },
+          stylesheets: ['css'],
+          hashes: true,
+          font: 'tmicons',
+          styles: 'font,icon',
+          types: 'eot,woff,ttf,svg',
+          order: 'eot,woff,ttf,svg',
+          fontHeight: 960,
+          descent: 0,
+          codepointsFile: 'src/codepoints',
+          htmlDemo: true,
+          htmlDemoTemplate: 'src/templates/tmicons-demo.html',
+          destHtml: 'docs/index.html'
+        }
+      },
       // iconfont for Sketch App toolkit
-      sketchtoolkit: {
+      sketch-toolkit: {
         src: 'build/icons/*.svg',
         dest: 'build/sketch-toolkit',
         options: {
@@ -90,6 +114,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['sketch_export', 'webfont', 'compress']);
+  grunt.registerTask('default', ['sketch_export', 'webfont:production', 'webfont:sketch-toolkit', 'compress']);
 
 };
