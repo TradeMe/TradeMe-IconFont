@@ -7,9 +7,12 @@
 	<style>
 		body {
 			margin: 0;
-			padding: 10px 20px;
 			background: #fff;
 			color: #2F2C28;
+		}
+
+		.content {
+			padding: 10px 20px;
 		}
 
 		h1,
@@ -55,19 +58,37 @@
 			margin-right: 0.5em;
 		}
 
+		.selectedIcon i {
+			display: inline-block;
+			font-size: 24px;
+			margin-right: 0.5em;
+		}
+
+		.selectedIcon pre {
+			display: inline;
+		}
+
 		footer {
 			margin-top: 40px;
 			font-size: 14px;
 			color: #999;
 		}
 
-		<%= styles %>
+		.usagebar {
+			background-color: #659AF0;
+    position: fixed; /* Set the navbar to fixed position */
+    bottom: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+
 
 	</style>
-	/*<link rel="stylesheet" type="text/css" href="production/tmicons.css">*/
+	<link rel="stylesheet" type="text/css" href="production/tmicons.css">
 </head>
 
 <body>
+<div class="content">
 	<h1><%= fontFamilyName %><% if (version) { %><small>version <%= version %></small><% } %></h1>
 
 	<div class="icons" id="icons">
@@ -86,24 +107,32 @@
 		</div>
 		<% } %>
 
-			<h1>Usage</h1>
-			<pre><code>&lt;i class=&quot;<%= baseClass ? baseClass + ' ' : '' %><%= classPrefix %><span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
-			<% if (addLigatures) { %>
-				<pre><code>&lt;i class=&quot;ligature-icons&quot;&gt;<span id="name2">name</span>&lt;/i&gt;</code></pre>
-				<% } %>
+</div>
+<div class="usagebar">
+	<div class="content">
+		<h2>Usage</h2>
+		<div class="selectedIcon">
+			<i id="name3"></i>
+			<pre><code>&lt;i class=&quot;tmicon tmicon-<span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
+		</div>
+	</div>
+</div>
 
-					<script>
-						(function() {
-							document.getElementById('icons').onclick = function(e) {
-								e = e || window.event;
-								var name = e.target.getAttribute('data-name') || e.target.parentNode.getAttribute('data-name');
-								document.getElementById('name').innerHTML = name;
-								<% if (addLigatures) { %>
-								document.getElementById('name2').innerHTML = name;
-								<% } %>
-							}
-						})();
-					</script>
+
+<script>
+	(function() {
+		document.getElementById('icons').onclick = function(e) {
+			e = e || window.event;
+			var name = e.target.getAttribute('data-name') || e.target.parentNode.getAttribute('data-name');
+			var iconName = '<%= baseClass %> <%= classPrefix %>' + name;
+			document.getElementById('name').innerHTML = name;
+			document.getElementById('name3').className = iconName;
+
+		}
+	})();
+</script>
+
+
 </body>
 
 </html>
