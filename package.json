@@ -7,13 +7,14 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-compress": "^1.4.3",
     "grunt-sketch": "^1.0.5",
-    "grunt-webfont": "https://github.com/jacoblapworth/grunt-webfont.git"
+    "grunt-webfont": "^1.6.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "grunt"
   },
   "author": "Jacob Lapworth <jacob.lapworth@trademe.co.nz>",
   "license": "ISC",
