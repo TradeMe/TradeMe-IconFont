@@ -532,9 +532,9 @@ grunt-sketch@^1.0.5:
     underscore "~1.6.0"
     which "~1.0.5"
 
-"grunt-webfont@https://github.com/jacoblapworth/grunt-webfont.git":
-  version "1.7.1"
-  resolved "https://github.com/jacoblapworth/grunt-webfont.git#53e1d57ac050e3289124971f5ac6837a8ddd3659"
+grunt-webfont@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.npmjs.org/grunt-webfont/-/grunt-webfont-1.6.0.tgz#a0d790f39056d94f340f50b3dc24c9ab4bcabcae"
   dependencies:
     async "~1.5.2"
     chalk "~1.1.1"
