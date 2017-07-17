@@ -44,6 +44,7 @@
 			-webkit-column-gap: 20px;
 			-moz-column-gap: 20px;
 			column-gap: 20px;
+			padding-bottom: 120px
 		}
 
 		.icons__item,
@@ -68,8 +69,10 @@
 			margin-right: 0.5em;
 		}
 
-		.selectedIcon pre {
-			display: inline;
+		.selectedIcon code {
+			position: absolute;
+			left: 80px;
+			line-height: 4em;
 		}
 
 		footer {
@@ -83,6 +86,7 @@
     position: fixed; /* Set the navbar to fixed position */
     bottom: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
+		min-height: 140px;
 }
 
 
@@ -98,7 +102,7 @@
 	<div class="icons" id="icons">
 		<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { var glyph = glyphs[glyphIdx] %>
 			<div class="icons__item" data-name="<%= glyph %>"><i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i>
-				<%= classPrefix %><%= glyph %>
+				<%= glyph %>
 			</div>
 			<% } %>
 	</div>
@@ -117,7 +121,7 @@
 		<h2>Usage</h2>
 		<div class="selectedIcon">
 			<i id="name3"></i>
-			<pre><code>&lt;i class=&quot;tmicon tmicon-<span id="name">name</span>&quot;&gt;&lt;/i&gt;</code></pre>
+			<code>&lt;i class=&quot;tmicon tmicon-<span id="name">name</span>&quot;&gt;&lt;/i&gt;</code>
 		</div>
 	</div>
 </div>
