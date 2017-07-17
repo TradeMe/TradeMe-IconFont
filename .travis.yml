@@ -26,9 +26,6 @@ before_install:
 # Build
 script:
   - grunt
-  - grunt:deploy
-    on:
-      tags: true
 
 # Deploy
 deploy:
