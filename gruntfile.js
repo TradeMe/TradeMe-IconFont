@@ -1,6 +1,7 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
+    // export icons as svg from sketch
     sketch_export: {
       icons: {
         options: {
@@ -14,6 +15,18 @@ module.exports = function(grunt) {
         dest: 'build/icons'
       }
     },
+    // optimise svg
+    svgmin: {
+      options: {
+        plugins: [{
+          mergePaths: true
+        }]
+      },
+      dist: {
+        files: 'build/icons/*.svg'
+      }
+    },
+    // build font files
     webfont: {
       // iconfont build and styles for production
       production: {
@@ -43,10 +56,10 @@ module.exports = function(grunt) {
           destHtml: 'build'
         }
       },
-      // iconfont build and styles for production
+      // iconfont build and styles for gh-pages deploy
       deploy: {
         src: 'build/icons/*.svg',
-        dest: 'docs/styles',
+        dest: 'docs/production',
         options: {
           template: 'src/templates/icons.scss',
           templateOptions: {
@@ -64,11 +77,12 @@ module.exports = function(grunt) {
           codepointsFile: 'src/codepoints',
           htmlDemo: true,
           htmlDemoTemplate: 'src/templates/tmicons-demo.html',
-          destHtml: 'docs/index.html'
+          htmlDemoFilename: 'index',
+          destHtml: 'docs'
         }
       },
       // iconfont for Sketch App toolkit
-      sketch-toolkit: {
+      sketchtoolkit: {
         src: 'build/icons/*.svg',
         dest: 'build/sketch-toolkit',
         options: {
@@ -110,10 +124,11 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-sketch');
+  grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-webfont');
   grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['sketch_export', 'webfont:production', 'webfont:sketch-toolkit', 'compress']);
+  grunt.registerTask('default', ['sketch_export', 'svgmin', 'webfont', 'compress']);
 
 };

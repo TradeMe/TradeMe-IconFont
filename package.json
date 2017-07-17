@@ -7,6 +7,7 @@
     "grunt-cli": "^1.2.0",
     "grunt-contrib-compress": "^1.4.3",
     "grunt-sketch": "^1.0.5",
+    "grunt-svgmin": "^4.0.0",
     "grunt-webfont": "^1.6.0"
   },
   "devDependencies": {

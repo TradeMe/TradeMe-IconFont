@@ -12,9 +12,7 @@
                 <polygon id="Fill-3" points="8 8 16 8 16 9 8 9"></polygon>
                 <polygon id="Fill-4" points="8 12 14 12 14 13 8 13"></polygon>
                 <polygon id="Fill-5" points="8 6 13.903 6 13.903 7 8 7"></polygon>
-                <path d="M20,20 L4,20 L4,0 L16.414,0 L20,3.586 L20,20 L20,20 Z M6,18 L18,18 L18,4.414 L15.586,2 L6,2 L6,18 L6,18 Z" id="Fill-6"></path>
-                <polygon id="Fill-7" points="15 4.003 19 4.003 19 5 15 5"></polygon>
-                <polygon id="Fill-8" points="15 1 15.997 1 15.997 4.004 15 4.004"></polygon>
+                <path d="M15.997,2.411 L15.997,4.003 L17.589,4.003 L15.997,2.411 Z M15,2 L6,2 L6,18 L18,18 L18,5 L15,5 L15,4.0035 L15,2 Z M20,20 L4,20 L4,0 L16.414,0 L20,3.586 L20,20 Z" id="Combined-Shape"></path>
                 <polyline id="Fill-9" points="18 24 0 24 0 4 3 4 3 6 2 6 2 22 16 22 16 21 18 21 18 24"></polyline>
             </g>
         </g>
