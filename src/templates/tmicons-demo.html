@@ -101,8 +101,9 @@
 
 	<div class="icons" id="icons">
 		<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { var glyph = glyphs[glyphIdx] %>
-			<div class="icons__item" data-name="<%= glyph %>"><i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i>
-				<%= glyph %>
+			<div class="icons__item" data-name="<%= glyph %>">
+				<i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i>
+				<div class="caption"><%= glyph %></div>
 			</div>
 			<% } %>
 	</div>
