@@ -3,6 +3,8 @@
 
 Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
 
+[Iconfont demo](https://jacoblapworth.github.io/TradeMe.TradeMe.IconFont/)
+
 ### v1.2.1
 * Direct build from Sketch file
 
