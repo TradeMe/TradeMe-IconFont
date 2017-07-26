@@ -1,9 +1,12 @@
-# TradeMe.TradeMe.IconFont
-[![Build Status](https://travis-ci.com/jacoblapworth/TradeMe.TradeMe.IconFont.svg?token=17pppDNTC2zxqDVwZYTf&branch=master)](https://travis-ci.com/jacoblapworth/TradeMe.TradeMe.IconFont)
+# TradeMe-IconFont
+[![Build Status](https://travis-ci.com/TradeMe/TradeMe-IconFont.svg?token=17pppDNTC2zxqDVwZYTf&branch=master)](https://travis-ci.com/TradeMe/TradeMe-IconFont)
 
 Workflow for creating the iconfont for Trade Me 2015 style icons used in **Classic** [Trade Me](http://trademe.co.nz/)
 
-[Iconfont demo](https://jacoblapworth.github.io/TradeMe.TradeMe.IconFont/)
+[Iconfont demo](https://trademe.github.io/TradeMe-IconFont/)
+
+### v1.3.1
+* Full icon set including historic Classic and 2015
 
 ### v1.2.1
 * Direct build from Sketch file
@@ -18,13 +21,15 @@ Workflow for creating the iconfont for Trade Me 2015 style icons used in **Class
 ### v11-deprecated
 * Font made with [Fontastic](http://fontastic.me/)
 
-Full release notes with new icons and updates can be found in [Releases](http://github.com/jacoblapworth/trademe.trademe.iconfont/releases)
+Full release notes with new icons and updates can be found in [Releases](http://github.com/TradeMe/TradeMe-IconFont/releases)
 
-## Creating icon release `designer`
+## Creating icon release
+### For designers
+
 Clone repo
 ```sh
-git clone https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont.git
-cd TradeMe.TradeMe.IconFont
+git clone https://github.com/TradeMe/TradeMe-IconFont.git
+cd TradeMe-IconFont
 ```
 Edit Sketch file in [`src/sketch/TradeMe.TradeMe.Icons.sketch`](src/sketch/TradeMe.TradeMe.Icons.sketch)
 
@@ -38,19 +43,6 @@ git push origin --tags
 ```
 
 This tag will trigger Travis CI to deploy a new release.
-
-Create a pull request into `master`
-
-## Deploy for prod `developer`
-Download [latest release](https://github.com/jacoblapworth/TradeMe.TradeMe.IconFont/releases/latest)
-of `tmicons-production.zip`
-
-Replace files in TradeMe.TradeMe
-
-`_tmicons.scss` to: `/TradeMe.Trademe.Web/sass/_icons.scss`
-
-`tmicons-xx.ttf`, `tmicons-xx.woff`, `tmicons-xx.eot` to:
-`/TradeMe.Trademe.Web/styles/`
 
 ## Installation
 
