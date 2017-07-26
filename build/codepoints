@@ -1,4 +1,22 @@
 
+  add-cart f22d
+  add-favourite f22e
+  add-watchlist f22f
+  address-verified f230
+  admin-view f231
+  angle-down f232
+  angle-right f233
+  apple f234
+  arrow-down-1 f235
+  arrow-down-circle f236
+  arrow-down f237
+  arrow-left-circle f238
+  arrow-left f239
+  arrow-right-circle f23a
+  arrow-right f23b
+  arrow-up-circle f23c
+  arrow-up-icon f23d
+  back-arrow f23e
   bathroom-1 f101
   bathroom-2 f102
   bedroom-1 f103
@@ -22,13 +40,18 @@
   box-2-lock f115
   box-2-tick f116
   box-2 f117
+  briefcase f23f
+  bulb-circle f240
+  calculate-shipping f241
   calendar-2 f118
+  calendar-add f242
   calendar f119
   camera-cross f11a
   camera-minus f11b
   camera-plus f11c
   camera-tick f11d
   camera f11e
+  card f243
   cart-2-add f11f
   cart-2-arrowdown f120
   cart-2-cross f121
@@ -40,6 +63,10 @@
   cart-question f127
   cart-tick f128
   cart f129
+  check-1 f244
+  check-2 f245
+  check f246
+  chevron-up f247
   circle-1-backward f12a
   circle-1-forward f12b
   circle-1-pause f12c
@@ -64,6 +91,8 @@
   circle-warning-1 f13f
   circle-warning-2 f140
   circle-warning f141
+  close-circle-1 f248
+  close-circle f249
   cloud-1 f142
   cloud-2 f143
   cloud-download f144
@@ -71,6 +100,7 @@
   code-1 f146
   code-2 f147
   code-3 f148
+  community-watch-circle f24a
   device-desktop-wide f149
   device-desktop f14a
   device-laptop f14b
@@ -92,6 +122,7 @@
   docs-pages-1 f15b
   docs-pages-2 f15c
   download f15d
+  edit-1 f289
   edit-add-here f15e
   edit-bullet-list f15f
   edit-crop f160
@@ -104,12 +135,14 @@
   edit-hamburger-menu f167
   edit-list f168
   edit-page-layers f169
+  edit-pencil f24b
   edit-reduce-window f16a
   edit-rotate f16b
   edit-scissors f16c
   edit-window-layers f16d
   edit-window f16e
   edit f16f
+  email f24c
   emo-1-happy f170
   emo-1-neutral f171
   emo-1-sad f172
@@ -118,6 +151,10 @@
   emo-2-neutral f175
   emo-2-sad f176
   emo-2-smile f177
+  expand-window f24d
+  facebook-circle f24e
+  facebook f24f
+  file-text f250
   flag-1 f178
   flag-2 f179
   flag-3 f17a
@@ -130,6 +167,8 @@
   function-minus f181
   function-plus f182
   function-tick f183
+  google-alt f251
+  google f252
   graph-2 f184
   graph f185
   heart-2 f186
@@ -141,6 +180,8 @@
   house-land-area-1 f18c
   house-land-area-2 f18d
   house f18e
+  i-1 f253
+  i f254
   image-1-none f18f
   image-1 f190
   image-2-none f191
@@ -149,8 +190,11 @@
   image-3 f194
   image-4-none f195
   image-4 f196
+  in-trade f255
+  info f256
   key-1 f197
   key-2 f198
+  large-quote f257
   lightbulb-1 f199
   lightbulb-2 f19a
   lightbulb-3 f19b
@@ -159,12 +203,16 @@
   location-2a f19e
   location-2b f19f
   location-2c f1a0
+  location f258
   lock-closed f1a1
   lock-open f1a2
   mail-1-open f1a3
   mail-1 f1a4
   mail-2-open f1a5
   mail-2 f1a6
+  mail-circle f259
+  mail-detail f28a
+  mail f25a
   map-1 f1a7
   map-2 f1a8
   map-my-location f1a9
@@ -191,20 +239,35 @@
   misc-wifi f1be
   misc-wrench f1bf
   misc-www f1c0
+  more f25b
   music-headphones f1c1
   music-note-1 f1c2
   music-note-2 f1c3
+  new-tag f25c
+  next-arrow f25d
+  outbid f25e
+  paynow-circle f25f
+  phone f260
+  pinterest f261
+  plus-fine f262
+  plus f263
+  print-circle f264
+  print f265
   printer-1 f1c4
   printer-2 f1c5
   printer-3 f1c6
+  printer f266
   profile-man f1c7
   profile-woman f1c8
   profile f1c9
+  qa-question f267
+  question f268
   quote-1 f1ca
   quote-2 f1cb
   refine-2 f1cc
   refine-3 f1cd
   refine f1ce
+  restore f269
   search-1-cross f1cf
   search-1-tick f1d0
   search-1-zoom-in f1d1
@@ -228,6 +291,7 @@
   shop-wallet-1 f1e3
   shop-wallet-2 f1e4
   shop f1e5
+  small-quote f26a
   social-facebook-1 f1e6
   social-facebook-2 f1e7
   social-facebook-3 f1e8
@@ -259,23 +323,46 @@
   speech-bubble-2b f202
   speech-bubble-2c f203
   speech-bubble-2d f204
+  speech-bubble f26b
+  square-cross f26c
+  square-tick f26d
+  star-1 f26e
+  star-10 f26f
+  star-100 f270
+  star-10k f271
+  star-1k f272
+  star-200 f273
+  star-20k f274
+  star-2k f275
+  star-30k f276
+  star-3k f277
+  star-40k f278
+  star-4k f279
+  star-50 f27a
+  star-50k f27b
+  star-5k f27c
   star-add f205
+  star-basic f28b
   star-details f206
   star-lock f207
   star-remove f208
   star f209
+  stop f28c
   tag-1 f20a
   tag-2 f20b
   tag-3 f20c
   tag-4 f20d
   tag-cross f20e
   tag-tick f20f
+  tandc f27d
   tangram-1 f210
   tangram-2 f211
   timer-1 f212
   timer-2 f213
+  top-seller f27e
   trophee-lost f214
   trophee-won f215
+  truck-1 f28d
   truck-2 f216
   truck-cross f217
   truck-delivery-2 f218
@@ -284,6 +371,9 @@
   truck-tick f21b
   truck-time f21c
   truck f21d
+  twitter-circle f27f
+  twitter f280
+  update f281
   upload f21e
   video-1-backward f21f
   video-1-forward f220
@@ -295,7 +385,14 @@
   video-2-pause f226
   video-2-play f227
   video-2-stop f228
+  warning-1 f282
+  warning f283
   watchlist-add f229
   watchlist-remove f22a
   watchlist-tick f22b
   watchlist f22c
+  web f284
+  windows f285
+  yahoo f286
+  zoom-off f287
+  zoom-on f288
