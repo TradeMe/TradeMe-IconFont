@@ -2,11 +2,11 @@
 
 @font-face {
 	font-family:"tmicons";
-	src:url("tmicons.eot?ce564a0622d49f81c6e51f407a04b430");
+	src:url("tmicons.eot?d4f9cbbb02428c7993cd6df07e06f176");
 	src:url("tmicons.eot?#iefix") format("embedded-opentype"),
-		url("tmicons.woff?ce564a0622d49f81c6e51f407a04b430") format("woff"),
-		url("tmicons.ttf?ce564a0622d49f81c6e51f407a04b430") format("truetype"),
-		url("tmicons.svg?ce564a0622d49f81c6e51f407a04b430#tmicons") format("svg");
+		url("tmicons.woff?d4f9cbbb02428c7993cd6df07e06f176") format("woff"),
+		url("tmicons.ttf?d4f9cbbb02428c7993cd6df07e06f176") format("truetype"),
+		url("tmicons.svg?d4f9cbbb02428c7993cd6df07e06f176#tmicons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -203,6 +203,11 @@
 
 .tmicon-box-1-details:before {
 	content:"\f10f";
+}
+
+
+.tmicon-box-1-gift:before {
+	content:"\f28e";
 }
 
 
